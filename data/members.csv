@@ -1,0 +1,1001 @@
+ID,Name,Age,Budget,Network,Condition
+83c0cf60-8b1a-4722-8238-48fc00712845,Christy Curtis,22,886,PPO,Heart Disease
+496f9eb4-9ccb-4749-8e73-c48ed700bbba,Michael Cuevas,61,381,EPO,Diabetes
+eab5a2be-9cc5-4f70-9ae2-31a176c20ec4,Kevin Williams,32,384,HMO,None
+d97467bf-0daa-42bc-af6e-dc2f61ae2dde,Rachel Chavez,64,551,EPO,Heart Disease
+159d9721-40ca-4dc4-bef5-d89befdf44ad,Dustin Guerrero,70,920,EPO,Diabetes
+bc3cedcd-dbca-4b55-b6b0-b203b13b1edf,David Martin,33,735,HMO,Hypertension
+75f16f14-1aef-48e4-8490-84199d05b736,Kelly Bell,22,226,EPO,Asthma
+a4182ef8-265e-41ba-bc5f-f25e86fa719f,Micheal Davis,50,978,POS,None
+6d0c0b0b-d74e-4710-88a9-ab6c20e49814,Jordan Graham,69,836,PPO,Heart Disease
+bd33d762-98f1-4a27-a770-de8487da8497,Dr. Scott Graham,48,1003,HMO,Diabetes
+cec3759a-1574-40ee-ba1c-ee8a99d6a276,Elizabeth Poole,59,922,POS,None
+412f1fe3-94f5-460d-a927-476195d35f87,Kayla Jones,56,940,HMO,Asthma
+d974f356-ea0f-4868-8898-3038e82b4d43,Scott Peterson,20,176,EPO,None
+ec79a84d-1fd3-45d0-812a-a16d65cee071,Alison Griffith,26,382,POS,None
+23d25861-9e47-4872-86f0-14cd4c7e909d,Lauren Barrera,49,1107,EPO,Heart Disease
+7d772608-f10c-4a4f-a47b-344dff57421a,Travis Fletcher,49,931,EPO,None
+29892489-53c2-4b8a-9db0-426c0b9369b8,Stacey Green,69,538,EPO,Hypertension
+9bdaac28-421c-49d5-8b2e-827b4976cafe,Elizabeth Carter,58,245,EPO,Diabetes
+6828bd95-35f5-4337-bbb0-4162c2cdd31c,Stacey Manning,49,749,PPO,Diabetes
+9a96b718-0338-4fe4-bdae-4c0dfbd59913,Gregory Humphrey,37,517,PPO,None
+bd116617-5cd8-47c3-bc5b-552ab1d14482,Abigail Perry,47,964,EPO,Heart Disease
+cc3c5cb3-3bcd-4980-91fa-c6e3b2b1f728,Peter Underwood,54,709,PPO,None
+acbe2ac2-9503-4e40-acc5-531d2d57c0be,William Glenn,18,416,HMO,Diabetes
+8e6ef049-c65b-466f-a037-1c8111c4fea7,Stacey Noble,43,906,HMO,Heart Disease
+6225d076-daff-45be-93a1-6ad029e5d88e,Jennifer Smith,35,466,HMO,Asthma
+cc27f498-b8aa-4467-b7ef-231ad745dd09,Jennifer Lewis,67,867,PPO,None
+a72d1956-ff55-4c64-8275-4bc2b07b91c8,Pamela Jones,56,636,EPO,None
+b2592e19-e103-4d68-8e3f-2baaa72405ed,Jessica Mckinney,19,965,POS,Heart Disease
+8d39c6ad-1f98-4d7a-9991-df21fc1e663f,Madison Vaughn,38,378,PPO,Asthma
+caf61c44-75ad-472f-8f10-8d2e1f12cadf,Christopher Brown,39,917,POS,Heart Disease
+88acd803-d072-461a-a023-30905e3e4414,Adam Smith,48,550,PPO,None
+f630b800-3aed-4c74-bb5a-bf909271a789,Andrew Vaughan MD,21,313,HMO,None
+7cc617d2-f793-417e-bd6d-4e125ae0ce28,Lynn Bernard,66,1090,POS,Asthma
+16177085-431b-475a-919c-94c14f451d04,Dylan Ruiz,52,949,PPO,Heart Disease
+f2f9bdb4-621b-4f81-a81f-bc7ec443a27e,Shaun Olson,45,1092,EPO,Asthma
+6ad39a73-4de1-4718-b612-f6b4639a6e79,Christine Hudson,30,196,PPO,Hypertension
+9c8a6393-c00e-4265-be37-1007538fdeee,Megan Williamson,18,413,POS,Heart Disease
+64a7f0b4-66ee-44cd-9312-a7d175cfc9a9,Andrew Chapman,36,362,HMO,Diabetes
+77aa8d2e-926b-41f3-84db-fd74db979697,Christopher Hawkins,30,651,EPO,Diabetes
+f74477dc-9e62-436f-8b8e-9f4070237c25,Steven Robinson,40,593,PPO,Asthma
+0d9cbd96-8520-4761-a7c1-ed0ebe6f209a,George Robinson,66,157,HMO,Diabetes
+0822b894-3124-4e35-8e44-ac32d94efd45,Thomas Garrett,46,197,EPO,Hypertension
+d8671a8f-fe8f-4f85-b9d7-05c829211d40,Derek Stanley,28,992,EPO,Heart Disease
+8a2b2d93-e31e-4c67-81ca-34572d8d3ff6,Ryan Boyle,27,720,PPO,Diabetes
+bd78bcdb-11f8-4589-ae02-c4f708161df1,Nicole Hill,28,610,HMO,Diabetes
+195466d1-6148-4f65-88f0-8374a2de12c5,Belinda Harris,39,290,HMO,Hypertension
+fd053b45-7202-4e5e-9150-819045a8da3b,Anthony Curtis,59,384,POS,None
+17006b2b-d1f3-4ed3-92e9-3f58b25e27e4,Diana Williams,49,1109,PPO,Hypertension
+241340da-bfcc-4a6d-942a-5a7c65fb9427,Melinda Frank,52,902,PPO,Asthma
+653d0ecd-f191-452b-9dd8-6b4b0713a656,Steve Lawson,41,490,EPO,Asthma
+04150753-c3aa-4037-ab53-38995c376b0b,Amber Cooper,44,450,HMO,Hypertension
+90cff828-a949-4027-8230-debff38aa8a6,Jonathan Kemp,25,439,PPO,Diabetes
+43ab0b6f-d97f-40d7-9d0f-a2e59a1436c1,Devin Fernandez,59,1007,EPO,Hypertension
+e8cff343-cd45-4c5a-8daa-046bc7576d8b,Kristen Houston,44,1063,POS,Heart Disease
+3adaa057-6e42-40e8-a9c3-4571b9a3d99f,Bethany Stephens,49,946,HMO,Diabetes
+4580b946-df35-4272-8d09-f6c2b5690b6d,Christopher Andrade,64,350,HMO,None
+8d5bbd3e-de9c-4e14-91ce-8ad984cb6daa,Amy Johnson,29,682,HMO,Heart Disease
+0a827809-396f-47a9-8c9e-b860ae9668d9,Michelle Abbott,27,921,PPO,Diabetes
+8653fd86-bd83-44c1-bf22-010f16c8af1b,Maria Martin MD,30,678,EPO,Diabetes
+6145933a-a684-41e8-88aa-ed56e565044b,Cassandra Harris,50,393,PPO,Asthma
+685b6ff0-b34d-4a86-bd87-101c9e064358,Amber Stone,48,803,EPO,None
+cf2b9a76-2442-4eb7-b903-dccf6581a14d,Christopher Nichols,45,749,PPO,Hypertension
+274cca31-c5de-49ef-987c-648c4274beb8,Sabrina Marks,26,169,PPO,Hypertension
+54535fe8-1aac-42ab-83ab-8fb222feb0fd,David Ruiz,47,421,HMO,Diabetes
+954a471c-3194-4ea5-bfde-87d2a7915b9c,Emily Bond,47,780,POS,Hypertension
+0d51c114-9d89-49f6-b9d4-0318193e84a6,Brandy Larson,54,234,HMO,Asthma
+fb7e09c2-e403-48ef-b944-4afd83f0c3ee,Sandra Aguirre,23,261,EPO,Asthma
+dbf93e96-e49a-47ae-b261-d3eaf93080b8,Tiffany Fuller,26,767,EPO,None
+31a0b083-8dc5-474b-a31b-149e179200f0,Tyler Santana,69,1178,HMO,None
+93cc3831-a958-4370-8255-7728896603ff,Samuel Richardson,28,1091,POS,None
+cecfa37e-76f7-4745-ae80-ce1dfd37e293,Amber Carter,59,656,HMO,None
+29662e58-6b73-4270-895f-015d2ec71cc4,Jason Cook,28,762,PPO,Asthma
+982cf167-405a-444b-9ddf-c6bfdf924f4a,Jo Crawford,68,1167,HMO,Diabetes
+8ab4c1b8-c392-43a2-8701-cc8f4b52fc64,Nicole Wells,48,996,PPO,None
+ff54d9ed-9544-4201-a892-93b841666dca,Carol Griffin,18,1029,EPO,Heart Disease
+8d4c23df-b52d-4633-aa88-42c4b3ca3434,Wanda Foster,26,900,EPO,Hypertension
+0d69395c-c6a8-4713-9947-8bd58aa720a5,Cathy Hughes,54,939,HMO,None
+e4da1811-4955-4df2-9d0c-981478bf9c78,Joseph Robinson,35,850,POS,Heart Disease
+3305ccbd-73bb-471f-9d51-afc9ff6e16e1,Tyler Fisher,29,735,PPO,Hypertension
+3179856e-a997-4605-84cc-d0850919791e,Ashley Adams,70,381,HMO,Hypertension
+afa79613-4e2d-4a86-b404-0986f2a76299,Kimberly Weber,57,506,POS,Heart Disease
+42a467df-0a18-4419-b5df-c4a9c35d9cf6,Michelle Hanson,44,277,POS,Diabetes
+61867b82-f8bd-422f-91ea-ce7c37ff368a,Zachary Garrett,52,206,HMO,Heart Disease
+8c275922-bc22-4c6c-afa1-5fd58fa4e748,Cassandra Dawson,44,394,PPO,None
+ef443cec-3fe6-4b35-984d-c19e1c5a0bbc,Donald Herman,50,471,EPO,None
+0ac6a368-42d1-456c-9496-c02c7971abb1,Annette Hickman,27,328,POS,None
+876b950b-f538-4f22-bdf0-79c0d50209e9,Julie Munoz,45,163,EPO,Asthma
+9a868966-fdfc-4f51-86c7-32a5021ffdf9,Wayne Jackson,24,1112,EPO,Asthma
+46f155b6-cda2-457f-a7fa-b3bf91b3f30a,Todd Adams,33,447,PPO,Asthma
+c0f6572a-f4d9-4f42-a65c-45d470fa9671,Kelly Gilbert,54,600,HMO,Asthma
+1e183040-9c1c-483b-98a6-30d9241a8c8c,Michael Carter,61,688,PPO,None
+88da248b-f8c1-4657-8679-4308287ac900,Thomas Potts,63,628,PPO,Asthma
+715fa9e5-4234-42e8-8534-b3d85b63b256,Christine Weaver,47,761,POS,Hypertension
+92673c6b-add9-4b14-80e1-e517cd3a32db,John Santos,24,191,PPO,None
+83913416-e911-4827-88cf-8f0698620288,Patrick Brooks,23,629,PPO,Diabetes
+605cfa6a-6958-4b6e-b9ba-d2409b156747,Catherine Mann,56,246,PPO,Hypertension
+9fef6644-d352-4641-a289-9390df683c8d,Jennifer Perez,36,490,HMO,Hypertension
+eb2d50b4-6fe4-4ef4-8959-1ad6984d18c3,Christina Brewer,52,639,PPO,Diabetes
+08893805-a229-4fd5-b603-6fd5f0c90372,Thomas Sanchez,66,1099,POS,Heart Disease
+ccd9a748-87f2-4cb6-82fa-f36e263f2206,Edward Woodard,48,1039,HMO,Hypertension
+172ef2a8-0f0d-4c55-9212-2c4f898699e3,Maria Martinez,38,1138,HMO,None
+f9426ede-f090-4c91-adbf-47d5027177a1,Darren Dixon,41,384,PPO,Asthma
+fe5858ed-26fa-4840-9c26-ca23dfe44cf8,Bryan Gonzalez,46,1082,HMO,Diabetes
+3d5f4155-b4c8-4202-95ab-99a3183a70be,John Rasmussen,58,202,EPO,Heart Disease
+59eccd4e-a5de-4024-a7fb-82ab022af80a,Jamie Newman,48,664,HMO,Heart Disease
+25db66a2-aa08-4cb7-92a7-2e00cdc133f5,Sonya Whitaker,39,1047,EPO,Asthma
+59351897-8b45-4a14-b99e-b3424ec96123,Denise Green,38,198,POS,Heart Disease
+4fcc12ea-4e98-47b9-842a-749b84e15d21,Sara Harrell,20,967,POS,Asthma
+744304c3-acf0-4881-8dd2-8f0c52f05479,Drew Guerra,40,1135,EPO,None
+960bb9b5-ca0a-492c-b102-1e442e5840db,Ronald Sanders,53,617,POS,None
+413ba1c0-0cb9-454f-bf76-e7bdd59f909c,Peter Malone,28,450,EPO,Diabetes
+4ccd0344-7a8c-4364-a6d4-fb0a05a14b10,Jared Anderson,36,558,POS,None
+42226216-5e0a-40f0-aad3-c8efcd853d7c,Mary Ellis,20,1049,POS,None
+84022968-b10e-4a08-8fb4-7a524a3c0615,Heather Bernard,32,578,EPO,Heart Disease
+1294b1d1-4fed-4ff8-b0d9-9f6d4c687a65,Alyssa Garcia,20,1079,HMO,Asthma
+1d3d672c-25e7-4fb6-884d-0256f05624bb,Alejandro Fox,56,389,POS,Hypertension
+b496f793-2c8f-424f-b926-f3d9c121165d,Erin Banks,34,960,POS,Heart Disease
+edfbfa81-0c8a-4858-b230-d20447a494f0,Kelsey Alexander,40,1122,EPO,Hypertension
+540f0684-0c1d-4dce-b97c-7c40ddc57053,Peggy Nunez,33,1098,POS,None
+30bac484-42f9-43a8-a8ad-7c2244c13015,Nancy Barrett,52,265,PPO,Heart Disease
+6a7dc087-4d9e-4348-88e0-655c066b6698,Derrick Barry,52,395,EPO,Diabetes
+c195b10b-9059-42f6-8c51-71d771407ac0,Elizabeth Wagner,53,382,PPO,Heart Disease
+2950e4b0-9949-4c8d-8b25-a8e9d2d91664,Jeffrey Montgomery,53,252,POS,None
+c0b6b11b-a8be-4c7d-8a24-4af9e466fa61,Mary Morrison,22,380,PPO,Hypertension
+5ffc0564-2746-4506-9a18-6156aaffce58,Daniel Cooper,55,679,EPO,Hypertension
+3a460856-5b9b-416f-97e0-bef5127ba2cb,Brianna Brown,62,907,EPO,Hypertension
+a42349b7-1fef-4583-afbd-191578127d48,Nicole Dillon,39,1045,PPO,Diabetes
+75f15dff-0136-4ef8-a7a5-3f54ea231763,Jennifer Brown,38,790,HMO,Hypertension
+50840f6e-b6c8-470c-b7f4-175fbd5c0b4c,Nicholas Mata,22,1168,HMO,Hypertension
+b9c7feb7-e61b-40c2-aca5-2ab0beb2bac9,Francisco Williams,25,1124,PPO,Diabetes
+65d67b31-6324-4ef4-9c6f-664caeed5820,Robert Reynolds,67,409,EPO,None
+f88073c9-d2e4-4201-a728-fbdcfd79e64a,Jonathan Kennedy,26,251,PPO,Heart Disease
+56f4f203-2464-4bc2-8962-1848467a315c,Brandon Morgan,45,720,POS,None
+4b646a5d-455c-4bbb-84b9-2c4b02556bc0,Stephen Day,30,204,PPO,None
+0aa6deda-51bc-40f7-b695-caa2ca1ce148,Timothy Escobar,22,778,PPO,Hypertension
+1efab84d-dcdd-4f75-ba2e-6d047435ecde,Paul Knox,44,458,EPO,None
+1fde634e-67ed-4481-88aa-a649a5845a34,Zachary Atkins,27,170,PPO,Diabetes
+6ba1cd07-efb6-4374-b113-d96467654f8f,Cameron Campbell,25,1113,EPO,Hypertension
+95a408cd-5705-4a17-a4d3-59af549c4ba4,Cody Gallagher,26,847,PPO,Heart Disease
+0ddc4fa6-a82e-44a7-9349-f19c34b87ddd,Vickie Hutchinson,55,704,EPO,Hypertension
+c3147694-4ac1-4663-9fca-228a1e3aa50c,Steven Jones,36,224,EPO,Diabetes
+742d8cef-409b-4cda-8cda-9eac4beab90d,Megan Jones,18,872,POS,Heart Disease
+10572473-9a52-4e39-8550-4372c2f5d308,Jane Leonard,35,277,EPO,None
+8f751397-32b1-4d57-811a-0e7b57b5aefb,Daniel Weaver,59,1019,EPO,Heart Disease
+7ae2fa01-ffcd-4c48-966d-a282bfb8e820,Tracy Mooney,53,935,HMO,Hypertension
+ee1d7bbb-7387-43e7-a947-65f0d0c96c98,Doris Larson,23,287,EPO,Hypertension
+8247fc46-35fa-4f24-b420-3f4100d33310,Robert Reese,41,1083,HMO,Diabetes
+0456df82-b84a-4929-867b-59a6d6482252,Mr. Brandon Rose,19,677,HMO,None
+6ba25893-14c9-4b62-88c8-cdf423040faa,Chelsea Jones,63,908,POS,Asthma
+0337cd15-bc86-4012-af41-c67c5fe098ff,Lauren Wilson,60,329,HMO,Diabetes
+ac066be6-3a7c-437b-8ef9-cfec5bb2d67f,Kelly Phillips,25,444,HMO,Diabetes
+561ac3c4-164a-4749-8dea-d8972a039eee,Nicholas Smith,27,732,POS,Asthma
+b7e1c478-dcd7-468b-97ab-298317ef269c,Caitlin Sullivan,41,862,EPO,Heart Disease
+2cb36fca-0488-40db-8bdc-a33ff494c253,Mary Stevens,19,774,HMO,Hypertension
+d242f3fa-9f32-47ad-b63a-374a1365fea2,Richard Trevino,27,621,PPO,Heart Disease
+1e61294d-44d6-4362-b00f-135e561a4561,Stacy Hawkins,51,789,PPO,Hypertension
+6b915c60-8d78-42af-af5a-377b8ed975f8,Tammy Ward,21,595,HMO,Diabetes
+5501bdd6-bf27-4041-a888-932177a0b8e9,Gregory Thompson,31,207,PPO,Diabetes
+8d2cb3e7-28d5-44d9-979c-543c80a1d8ed,Heidi Moody,62,399,EPO,None
+9bddf384-1588-47d3-90ff-cf66eb315773,Todd Edwards,49,905,EPO,Heart Disease
+c7857a0f-ba86-40e5-a206-999571320440,Michael Park,54,1072,PPO,Asthma
+5f237259-a73c-4ca5-adae-f35372bfe133,Brittney Richard,39,313,PPO,Hypertension
+a3f6fc2c-acba-4162-9d3b-28d7150d7ac1,Evan Carr,60,794,HMO,Hypertension
+e890b4de-0489-45cf-8338-069f33934ff7,Krystal Wyatt,59,1138,PPO,None
+1a3707f2-36f4-459c-9ece-0172b922e872,Jason Scott,26,270,POS,Hypertension
+35d5cc90-391b-4981-8bc7-a9a768bf49be,Robert Wright,52,474,PPO,Diabetes
+bf27f98c-0f83-41b2-b4c8-0ca7c8609d18,James Allen,53,978,EPO,Diabetes
+e9c02830-e0c6-45e6-92de-b25cfc48b9b2,Nathan Carroll,40,509,HMO,Hypertension
+f08351ad-83c7-433d-9297-181ca437d766,Jane Caldwell,63,574,HMO,Diabetes
+59f52752-dd0f-4f38-be3f-0e3aa928e043,Janet Lester,41,668,EPO,Asthma
+016b879c-3f6b-4100-a5c6-6f0d1236d22c,Shelley Drake MD,35,492,PPO,Asthma
+32057909-83ba-4454-8af9-84586e0322d4,Maria Mcbride,23,416,EPO,Diabetes
+4767402d-bf3c-4f1d-acf4-7ff037ef8fcb,Nancy Blake,61,243,POS,None
+923ea0c4-d6f7-4139-9aab-4ac36cbedb7d,Jerry Ward,57,1106,POS,Heart Disease
+2533cf56-6b60-4c8b-bcdc-571d74e4d8f0,Amanda Knight,28,678,POS,Heart Disease
+adee27fd-f5f4-4919-9177-f5efb2093a08,Patricia Guerrero,49,680,POS,Diabetes
+219a99aa-6646-478b-870f-b9110325c885,Yolanda Marquez,44,1036,EPO,Hypertension
+0f19c16d-e0c9-4fa6-9b89-43f67c0f2bd6,Christopher Mills,37,637,HMO,Hypertension
+16704ce2-f540-4925-a381-9bfc9db50d16,Mr. Joel Zuniga,38,820,EPO,Heart Disease
+cf1108e3-14b7-4088-be66-8307b33fc751,Eric Martin,43,1070,PPO,None
+8bd91a3b-3997-47a9-b58f-d36668b0fc13,Miss Jennifer Acevedo,63,963,POS,None
+3d7f9f27-18dd-4763-a265-26b4e9908a80,Cindy Harris,42,924,HMO,None
+5617fb4b-92ab-45b7-9148-b07e95847fae,Rebecca Weaver,41,713,POS,Asthma
+9209b597-3719-48c7-b541-78c9e3d1a18b,Douglas Gutierrez,39,176,EPO,Hypertension
+5d589998-b082-46cd-9be5-d56d455976f0,Joel Cruz,68,403,HMO,Hypertension
+d0b1e8a6-1f23-45df-b4db-68097055f72d,Donald Gentry,56,824,PPO,Diabetes
+33271c15-e39f-46b4-afeb-6b6344fa5652,Brenda Shepherd,59,641,EPO,Heart Disease
+241a33ee-cca5-40b1-89e3-7b64b7a4ede2,Scott Hicks,52,1027,HMO,Diabetes
+e1c98b23-b3a2-434c-8325-96a4fa49eae1,William Underwood,68,478,PPO,Asthma
+2ab72b88-fd08-4346-9cb5-cbb457324650,Ann Perez,50,364,PPO,Diabetes
+e3852cf5-2605-4541-bf93-81275fec82de,Michael Durham,32,718,POS,Asthma
+10607bc1-f405-4cb3-9ae0-bd0a416791e2,Hector Rivera,65,404,HMO,None
+e2e01fe8-ca06-4a4b-9ba9-9e2cc4ed77c9,Morgan Harris DDS,40,1003,PPO,None
+a677edc6-ea3b-4e8f-b569-c02fdeee8c16,Thomas Vazquez,63,234,EPO,Diabetes
+26869cd0-a9f1-4186-a1d6-0bdaf98a73f1,Lauren Graves,24,397,PPO,Diabetes
+dfa05b4b-e5e6-4f31-90da-d47a5eb5859f,Gregory Wheeler,52,1139,EPO,Hypertension
+70269673-3195-45a5-8fb4-5b0c570b42fb,Diana Wilson,42,332,EPO,Heart Disease
+984b9ad8-75dc-4649-a8ac-c7ec767ce10c,Julie Smith DDS,34,875,EPO,Heart Disease
+9b5a3e1c-49ab-4136-a63e-ec77f23ae938,Timothy Huff,57,572,EPO,Asthma
+feb98d6f-7a1b-45e9-b06a-f1468c37a7b6,Allison Reynolds,66,353,HMO,Diabetes
+64f4a31e-1fc3-4282-879d-3f25fb94938a,Jennifer Francis,32,996,HMO,Diabetes
+99140000-da98-49cd-986d-590d704c9ba1,Brenda Brown,24,924,POS,Heart Disease
+d64a68d3-7d64-4934-b398-2a37b7012aba,Derek Hale,40,897,POS,Hypertension
+6412acf6-1427-4104-956d-a223c0e70cf9,Jonathan Wilson,44,738,PPO,Hypertension
+6fa8a518-c710-4c49-b3b0-92bdbde9dd13,Tiffany Acosta,59,793,PPO,Heart Disease
+d4d4941e-dc52-460e-a7c4-89049e64284a,Dale Smith,25,387,POS,Asthma
+b0fe30d3-afb3-451b-a6e1-ac9e10563737,Karen Ayers,60,581,HMO,None
+2a84bf9e-6927-44dd-81db-7baa76e51b0f,Dr. Deborah Newman,35,580,POS,None
+99b2126d-5b62-4ae4-9205-f105e1db4221,Dr. David Davenport PhD,32,1024,EPO,Hypertension
+69508d0e-6dd1-4000-8098-b433f690cff8,Julie Perry,47,969,EPO,Diabetes
+229add24-cf7f-4d4a-805c-47674bd43348,Billy Edwards,33,1051,EPO,Diabetes
+f17e804d-0674-4ac8-99a1-2b8773450447,Nancy Harris,66,233,EPO,None
+55d191a2-8411-4846-9507-966050787bab,Paul Frazier,49,199,EPO,Asthma
+2a8c3a34-3065-4709-a5ea-2f4008053c51,Taylor Cook,30,969,HMO,Diabetes
+a5792677-b765-4510-af1d-10993186ca1d,Dustin Robinson,50,1091,PPO,Asthma
+c85f9e23-4b37-48c4-b5f0-64f6cd2f2042,Crystal Clayton,22,896,HMO,Heart Disease
+f637cfe9-9978-46eb-acf1-31292dc9aaf7,Tyrone Clark,63,1051,EPO,None
+45bb1b70-956d-43eb-9a01-52789ba481ae,Dakota Wright,23,181,PPO,Diabetes
+02888620-8518-4c1a-a191-0eb8be6b86b0,Jose Jones,47,1147,POS,Diabetes
+64ceb3e5-4d86-46c1-8c65-9e49deb76c0f,Joshua Salazar,58,829,HMO,Heart Disease
+54383768-bc17-42d0-b820-7f6584311923,Kurt Elliott,60,263,EPO,Asthma
+448bed70-7626-40a2-a9c6-a1cc10af4ced,Diane Lopez,53,478,EPO,Asthma
+7777855a-1416-48e9-be59-370c5a338056,Anna Goodwin,38,632,HMO,None
+744d2390-87a3-4646-986a-5185da2b1e44,Austin Brown,38,1001,POS,Heart Disease
+c8107dfe-eb31-4b99-85a3-7f8ab2626584,Nicole Ingram,23,503,EPO,Heart Disease
+dd1cf3c4-7883-4231-870e-3ce6238d2716,Stacie Riley,38,769,POS,None
+3742fca0-a3f6-4a57-80f7-c18cab83121f,Lynn Williams,26,222,POS,None
+03274fe3-979e-40cc-a7e4-1eb37ee253e6,Carla Romero,66,410,HMO,Diabetes
+9375277e-745a-4555-b4cd-12bcbc5b9a5a,Natalie Young,52,798,HMO,Diabetes
+0f2495f6-5308-4e05-ba69-571cfad962fc,David Perkins,38,950,POS,Heart Disease
+bb5ccd93-0333-4461-98b8-155f8259297d,Destiny White,70,987,HMO,Asthma
+69c72c36-d83b-4637-b060-160ff15bf320,Jeffrey Higgins,34,709,EPO,Asthma
+6113073b-f500-47be-bd0d-1c3ac27d5536,Stephanie Miller,45,282,HMO,Asthma
+97173215-e655-4b24-9a56-1221f2460f7c,Erica Morgan,53,637,POS,Diabetes
+94153d52-1364-4059-ae65-421b68a1284e,Brenda Howe,27,1073,EPO,Heart Disease
+6763e331-a3f3-4ece-ba3b-46fc62eda0f8,Denise Reed,62,836,HMO,Asthma
+11d0438f-ed3f-4306-96bf-e0e7bffb8330,Brandi Mata,42,507,POS,Asthma
+b4d2bfec-9cdd-49db-bd26-13beb420cac8,Zachary Smith,40,555,HMO,Heart Disease
+05cd2e00-dbde-4de8-b1f0-0c905b8e455d,Tina Ramos,52,1184,HMO,Diabetes
+1b01b071-8267-4b39-b209-e1d33c6e10a2,Jonathan Moreno,70,270,HMO,Hypertension
+3cd5642c-75ef-49e2-9c86-8158933461ff,Jennifer Martinez,31,394,EPO,Diabetes
+a5accc68-9530-4743-9df4-3b26d6fd13a6,Nicole Davenport DVM,28,985,PPO,Heart Disease
+cfaedb21-dcde-4ab7-822a-bece772401e9,Michael Foster,59,300,EPO,Hypertension
+232d138f-2f8b-4aa9-b314-cfea42fe724d,Melissa Gutierrez,70,191,PPO,Asthma
+0b812068-65ab-48f1-a90e-f27731c9abe0,Terri Richmond,22,968,EPO,Hypertension
+b66894cd-d3f2-4806-8e16-b2883f85ed26,Brian Holloway,60,486,POS,Hypertension
+ae4a06f1-41d4-4bd3-aa6d-69f66366dc0c,John Schmitt,53,985,POS,Heart Disease
+6116cd25-8a18-4e07-9386-69df589ca547,Luke Michael,28,1049,PPO,Heart Disease
+e8846ecb-0544-4885-90b3-13ef7ad461ce,Howard Johnson,29,602,HMO,Heart Disease
+a065df72-d9fb-4602-98ae-064c1e6a201d,Rebecca Walker,30,904,EPO,Asthma
+ad0cf2bd-d532-4dd7-8967-49fb69f942c4,Brian Gonzalez,35,1140,EPO,Hypertension
+85fa3e79-d2fd-4337-a3d0-0f26c37739d1,Timothy Moore,23,397,EPO,Diabetes
+87c3b96f-4fe8-4a70-b819-fa1f292965d5,James Larson,54,679,POS,None
+4ee9763b-38ab-4bba-8d7f-0c2917f091da,Leslie Park,49,403,EPO,Hypertension
+d01bde29-8617-4e14-9977-c1b46f155e45,Amy Holloway,46,164,PPO,Asthma
+b113c4d9-c31e-4242-a047-0ce7f8f98608,Stephanie Castillo,24,1048,PPO,Heart Disease
+f245d09a-5e9c-4434-812c-887c1a09548d,Shannon Greer DVM,52,1079,HMO,Diabetes
+4e350f2e-8993-4db2-bc4c-f3676e1351be,Sarah Kim,49,1086,HMO,Heart Disease
+da93e0e3-addd-413c-9abc-5e73538f8e49,Charles Clements,56,677,POS,Asthma
+176f3009-1c72-4858-95b0-da956d43b8df,Steve Delacruz,53,691,POS,Hypertension
+49518f77-d912-457f-822b-df54424100d0,Anthony Gonzales,58,282,EPO,Diabetes
+e6df0979-5be1-4244-9389-037abf9ae89a,Tara Tyler,62,529,HMO,None
+4c46797a-b81a-4410-a86c-0eef0a58f883,Joshua Thomas,63,674,HMO,Asthma
+c8d62e2a-6bac-4a06-9f79-528e09d71e5c,Robin Stevenson,33,264,POS,None
+b904473e-ee58-427f-be2b-b725279eea33,James Grant,44,698,EPO,Asthma
+307c2df8-6067-41de-a84d-23b09a76c76e,Julie Acosta,62,1085,EPO,Heart Disease
+97f83949-ef0f-4011-8e80-f525e738bd14,Bradley Miller,49,516,EPO,Heart Disease
+dd846295-9881-455c-9e4b-116a616e68cd,Miranda Zimmerman,46,580,HMO,Asthma
+e4861f07-0e6d-4c77-88c3-d34cd773da65,Chad Burns,56,350,EPO,Diabetes
+9253fc4c-6e33-4113-8ef2-0626f8f6e120,Brittany Powers,36,1039,EPO,Asthma
+0a2f9194-1fd7-43ca-be7d-73f477f9f8cf,Donald Norman,52,1071,HMO,Hypertension
+bc369f85-6152-453b-9c04-8148869da10c,Sarah Malone,35,598,PPO,Heart Disease
+2541e4a9-4657-4dae-b4ed-985cc10b5cec,Jasmine Green,20,185,EPO,None
+f4e7c5e5-eab1-454f-b3b3-7d02a781d25c,Nicole Fuller,46,479,EPO,Heart Disease
+89985768-89ae-45ac-a016-e78a3768f407,James Wagner,59,807,EPO,Diabetes
+a2eb7d7c-d428-42cd-bbe8-c8d8a4789dd9,Andrew Kim,22,369,PPO,Diabetes
+96d2719b-b2ec-42f9-9713-191637cc8b06,Lori Brown,21,197,HMO,Hypertension
+10581e06-9d26-41a4-86d3-49647b42dd7c,David Thornton,58,943,EPO,Hypertension
+32f7d48c-a782-41e0-ae38-2cd84d8731bb,Michele Jones,30,801,POS,None
+ed67d810-6c9f-4ec8-bdda-027464feae01,Lisa Walker,34,703,PPO,Heart Disease
+021bc958-97b6-4250-bb75-14bcbf575051,Mitchell Scott,33,1051,PPO,Diabetes
+6102a56d-a691-4450-a9f9-d2c52c8f57cc,Miguel Sanders,48,259,PPO,Diabetes
+e97ea120-35d0-4785-b009-eda322e1a1d5,Harold Lang,25,505,POS,Heart Disease
+2c054c2d-8d04-4bc9-89ab-6f7d16358830,Anthony Long,38,403,POS,Heart Disease
+267c39a7-689d-4f74-aa35-6fcba31a6d8c,Brett Santos,28,278,EPO,Heart Disease
+377f032c-c8bd-4e42-8840-517c2719c0eb,Megan Sullivan,38,1181,HMO,Diabetes
+7b33930e-6200-4f92-bfa5-11facbe5a917,Carol Kirk,22,588,EPO,Diabetes
+211af6e1-fad7-461b-8dee-316f9c1029a9,Amy Moore,41,322,HMO,Diabetes
+f3d8391c-e268-4156-ad33-f9f45d0c4775,Tina Woods,33,402,POS,Asthma
+b04cf48f-0655-4d1f-9ff7-3b084cdd91ec,David Myers,32,745,HMO,Asthma
+e1591361-c0af-498c-ba8d-50f391698d37,Alicia Williams DDS,26,1061,PPO,Diabetes
+843694d7-a56c-4bda-b8cd-7772e211e11c,David Murphy,33,750,POS,Asthma
+bd4753ab-4147-4cf3-a2d5-99b958732519,Jeff Campbell,54,873,POS,Heart Disease
+ea5fc71a-6b82-4a50-9054-e2165a095cc4,Nicole Murphy,69,990,PPO,Diabetes
+8cea0603-d756-4d85-9f6b-8ba43bdc97b7,Vanessa Miller,57,628,HMO,Heart Disease
+450172fe-a140-492b-aa6d-22c005e08936,James Taylor,56,705,EPO,None
+c67d1e9b-83f0-4b00-8e28-1e9ac7abac28,Christy Hansen,48,283,PPO,Hypertension
+e5408ea1-796f-403e-b87a-f8c24e4bb1e5,Kevin Wallace,21,975,PPO,None
+0444e30a-d527-41b0-ace3-12451ce617cb,Amber Lee,44,751,HMO,Diabetes
+4129a11b-7819-444c-bf65-219bccf9df50,Christian Livingston,19,805,EPO,Asthma
+f4d67ce8-5ff9-491f-8f2d-9ae240b7a131,Christopher Moreno,64,1180,EPO,Heart Disease
+62e1221a-2922-4315-8735-5e22053cd562,Ashley Wood,20,510,PPO,None
+c3a514d6-bae9-44a1-9f99-dcc91b16528d,Jonathan Wilson,36,777,PPO,Asthma
+0ebce460-637a-4907-9d9a-1b652b4d7544,Rebecca Tate,38,697,HMO,None
+5a7071d6-7b4e-40a4-b01d-4a5f2c11b511,Steven Daniel,47,1126,HMO,Hypertension
+538574c5-4685-4462-9166-556888cab0cf,Matthew Kelly,45,742,POS,None
+6d33e51c-31b7-4895-9c52-71cf8c8bd7b9,Robert Reynolds,33,496,HMO,None
+e80526a2-6b0f-45a9-a2ca-6a4679cfb28b,Ann Richardson,31,732,POS,Hypertension
+bb7cd8e4-5ada-4ade-8cc7-12536ad83161,Ryan Russell,65,813,PPO,None
+9ab433d1-3c12-4564-a0d0-d710748a52a1,Jacob Thomas,67,409,EPO,Hypertension
+bcdcb740-fff8-434a-bd0f-ecccf6ce489f,Mrs. Victoria Moore MD,20,708,PPO,Heart Disease
+9d65d62a-a829-4ba6-91a7-b50db28c1f78,Andrew Grimes,39,703,PPO,Asthma
+01a14e3f-2245-4b61-afa2-5f7de593d9df,David Hall,54,722,POS,Asthma
+90b6cb3d-7b5a-425e-9de1-0eaebc8ba080,Kenneth Cordova,19,191,PPO,Hypertension
+8d5941dc-5b43-44d6-9283-e6d5dac38e9a,Lawrence Owen,60,192,PPO,Asthma
+b58e2565-d29e-4937-80c5-9757f5801e6d,Eric Herrera,49,502,EPO,Asthma
+9efc4a7e-f7d0-4db4-94d7-a2c2885588be,Jennifer Ibarra,26,770,PPO,Asthma
+a84068c9-4bf5-4a9f-86fe-049704c73359,David Lane,45,1114,HMO,None
+1ff95bf8-5496-41f1-baf7-678dd477b9c1,Jeffrey Larsen,31,1052,PPO,Diabetes
+f4e0cf36-dba3-4310-9b21-cdf55fd25a43,Mark Jones,56,865,PPO,Hypertension
+ba7d3586-5679-4309-9556-3126baaed468,Maria Simmons,19,501,POS,Asthma
+807c7982-0e18-4b39-8bd0-a3085e28f108,Whitney Small,26,654,POS,Diabetes
+9b04857d-b340-4378-95e2-4b3fc5de1594,Christopher Smith,25,759,EPO,Hypertension
+3ef82d8e-86a3-4dd7-9925-fdc86f85299a,Hannah Murphy,33,543,POS,None
+2b989c37-ef43-4a4b-a23f-1a034b27e183,Priscilla Daniels,42,1106,PPO,Heart Disease
+faff6e51-aeef-4dc6-a1e9-8e3091686470,Bryan Brewer,23,1157,EPO,None
+3132d1e3-d0f9-4958-9831-371b99a35b01,William Cooper,47,628,HMO,Heart Disease
+2d4b210d-de9a-49be-a806-25830c940127,Elizabeth Henry,56,557,POS,Diabetes
+79be77cd-4d1f-4507-9541-1e859baaafb6,Jamie Cox,70,1117,HMO,Hypertension
+33ae9843-5f3d-4459-8cfa-dde28d983550,Mario Wilcox,57,1152,PPO,Asthma
+33e630cb-8214-4e1c-adf7-88b0d4945864,Mike Cruz,25,1151,PPO,Hypertension
+6a18e2dd-421b-43b2-9b6b-ef7f9b3d54e9,Shannon Rollins,64,683,PPO,Heart Disease
+9789b807-3501-4aec-9c16-21995248e7d4,Shirley Wilson,41,784,EPO,Heart Disease
+a88ce131-c24e-44b9-8b1e-fab582c015ca,Randall Fowler,28,673,PPO,Asthma
+a1a92700-3bef-4e67-8c88-a2057bdb4539,Christina Carson,69,795,EPO,Asthma
+cd61d12f-28fc-4c4a-ad70-2d8ed0c26640,Cassandra Martin,32,512,POS,Heart Disease
+ce9347e8-bbe4-485f-9fdf-05f9ed23af5f,Adam Morrow,48,563,PPO,Diabetes
+81f128b5-f97b-4dac-a159-9c67a0c591d8,Matthew Walker,51,750,EPO,Hypertension
+cef80b95-0f59-4cee-9030-885bbf2e241a,Jessica Harvey,64,1007,POS,Asthma
+afa4b9a6-29bd-487b-9b8e-3892c5d655bc,Christian Ward,56,324,POS,Heart Disease
+4ec216df-3712-49ed-8662-11084d024488,Chad Figueroa,38,816,HMO,Asthma
+1edf33ae-fa24-4493-aee1-0beb89e2ff9a,Alejandro Lee,38,485,POS,Asthma
+2f4fa558-bcac-4379-b1e1-9e045d2a742b,Andrew Henderson,49,656,PPO,Heart Disease
+c89e9b28-123e-4b70-9c91-80f15f1b7464,Thomas Wright MD,29,558,PPO,Diabetes
+ce798a0a-d8cb-4d3d-b3c3-5664e5a75757,Heather Hayes,19,942,HMO,None
+dcf7a12b-6c73-4186-b740-9a3776c7a3fd,Edward Barajas,56,370,PPO,None
+ba5d5e05-c9dc-4f15-acf7-3a3e22961c2f,Daniel Williams,66,704,EPO,Diabetes
+78fab696-abec-4869-be39-f6e6989971e8,Melissa Blair,29,408,HMO,Asthma
+7874a14a-3439-4644-bc40-cc03e287ea45,Christina Simpson,21,234,PPO,Hypertension
+3d5a9e66-3c11-4e84-b6f7-cde1aed033dd,Emma Stewart,27,1149,POS,Hypertension
+22bc9f5a-9213-43e8-8570-cc88cd6d943f,Antonio Perez,51,672,EPO,None
+17f5e98c-f1f7-4b11-8cda-1b91168a89f3,Theresa Campbell,61,448,HMO,Hypertension
+6672449b-0989-4d1e-a11e-77bca7aab780,Robert Warren,34,202,HMO,Hypertension
+76518461-e597-43e7-bd26-7a5d5443ddef,Heather Lawrence,35,287,EPO,Heart Disease
+2f91c431-074d-4243-bde9-c8629653a0fa,Samuel Jefferson,50,758,POS,Hypertension
+277f2a38-2c98-47cd-b324-ee27f0508f5e,Mindy Bryant,45,429,PPO,Diabetes
+65126b75-cd50-4ebc-ba82-2bc783c4c490,Kimberly Figueroa,30,797,POS,Hypertension
+86a0bf26-4461-47c8-8dda-1bba7ff941c6,David Dean,47,793,POS,Asthma
+d70c929e-28e0-4e02-94b6-c2c4056d361a,Kevin Clark,69,224,PPO,Asthma
+35e9cac5-3f5c-460a-ae10-2bc0da15db3c,Charles Nelson,30,825,EPO,Asthma
+b8d0f4d6-b684-4a58-9a73-fcefa1697140,Judy Howard,32,784,PPO,Heart Disease
+da9b5edd-5da1-491d-99ca-3a22d447aca2,Brenda Owen,21,638,POS,None
+d176e1b4-0876-4189-86a3-b3e36c802299,Andrea Williams,57,964,HMO,Hypertension
+b929b2e1-51f1-4e60-9c69-ac598139e9a4,Brenda Wood,63,924,HMO,Hypertension
+9bee014e-f485-4d5f-90fc-71f71e568cf1,Samantha Barnes,54,664,EPO,Diabetes
+a8b7059e-cdd7-43fa-a85c-895a45cf4c5b,Brandon Thompson,51,1007,HMO,Hypertension
+3134645c-5d6a-45e1-a2d4-ea07432060d5,Dr. Erin Sanchez,21,447,EPO,Asthma
+a6319732-b98c-4465-a945-40dcd3a37e08,Jerry Maddox,63,760,PPO,Diabetes
+d42afd48-a4e0-402c-85a1-29ef67354160,Kari Smith,30,1006,PPO,None
+8fbee53c-4fde-473a-bc2d-388ecb7d5a0c,Alicia Day,29,729,PPO,Diabetes
+acf64eb2-17ef-43ce-b511-0e01c327c306,Annette Martin,27,1140,PPO,None
+67259aae-9dc5-42e0-bbc6-9c86eae4c564,James Chase,68,617,PPO,Heart Disease
+49589256-119c-4662-9de0-a6fcad19a4d8,Jonathan Evans,22,1120,PPO,Diabetes
+fc3363eb-8216-4930-a58f-e5130c651313,Susan Howell,20,182,HMO,Hypertension
+8ef587bb-42ba-496c-b686-4dc384f48d38,Jeffrey Bender,24,1030,POS,Diabetes
+e29f623c-9b60-464c-801c-86c1cfb1add0,Kathryn Edwards,20,324,HMO,None
+44d285f1-0d77-496e-99a0-22bae3064fa0,Tara Norton,42,1121,PPO,Hypertension
+abe71ad7-1b52-4058-bf26-ccef5c19c87d,Garrett Murphy,42,183,PPO,None
+334fb7ed-1ece-4999-9a23-1143325b9bc0,Crystal Wong,49,801,POS,Diabetes
+6d0ccadd-14f7-4063-8e2c-144471863de2,Gabriel Poole,66,232,EPO,Heart Disease
+6a771048-7c54-4882-89cf-ce26182d7440,Ronald Smith,63,190,POS,Heart Disease
+ba2a021c-45a2-46fb-9962-d196b99ade19,Jonathan Phillips,64,906,EPO,Asthma
+7b9398fb-2c4b-409c-b683-8629a9d54f1d,Julia Davis,66,271,PPO,Diabetes
+f8e7d334-da5f-4f96-92f5-907a72c2e6b1,Jessica Chan,29,947,HMO,Heart Disease
+58caae67-aa4b-4c9f-9034-a3ef91f25b2c,Jacqueline Matthews,65,725,EPO,Asthma
+4f809720-e2dd-42d0-ac5e-001e2b499cff,Nicole Harvey,68,613,PPO,None
+23e3563d-91be-4fba-978c-f3c9edf96e30,Dr. Angela Ramos MD,37,622,POS,Diabetes
+e5c5cdea-265f-4bcb-b0f6-c067358d62f8,Charles Frye,50,582,POS,Heart Disease
+876720e5-1fab-4978-a384-3f0055afcff9,Scott Green,34,1026,PPO,Asthma
+a03f3ef3-57d6-40de-8461-077932f7b9f7,Heather Herman,66,631,EPO,Diabetes
+23b5c60d-92a7-44c2-87c4-ef15a8ec5234,Donna Gillespie,68,826,PPO,Diabetes
+a843247e-49db-4a64-93b8-424a384e61f8,Melissa Chapman,30,568,POS,Heart Disease
+b31783b7-c4a2-4347-8b6e-32079dda9efd,James Williams,60,710,EPO,Hypertension
+f55a8ef7-9f13-45e3-b9fe-13c88e26781e,Anne Fields,47,803,EPO,None
+5122cd87-5a0d-4e5c-b802-865f5892be1e,Amanda Smith,23,806,POS,Heart Disease
+2a662258-102d-40b4-858e-761a22736b1a,Nicole Ellis,52,417,HMO,Heart Disease
+d6023910-1862-4ad1-aa95-0500d8fb213c,Susan Keller,34,1171,EPO,Diabetes
+e168ef2a-e441-47e3-9c8f-4983ade7838d,John Meyer,52,424,EPO,None
+0d629666-f386-4450-a765-cde7a0a32784,Mandy Davila,28,925,PPO,Heart Disease
+d538607b-e1bd-478d-84a1-65059629a01a,Madison Knapp,37,575,EPO,Diabetes
+10d34389-bcef-4583-bd4b-cfb641b777bf,Kristin Smith,61,410,PPO,Asthma
+640e2488-9008-468a-b403-9c21c56f72d2,Ryan Wood,21,1007,HMO,None
+fad13b27-cf7a-489c-8917-9ec558e48a48,Anthony Booker,60,449,PPO,Heart Disease
+5da526dd-ec9b-4336-a3dd-80d7921773ed,Thomas Long,37,594,EPO,Diabetes
+3e0ed442-bd5a-4876-9e83-5b8983a27dde,Dr. Alicia Rice DDS,65,1047,HMO,Heart Disease
+bfe45deb-282a-4299-83d7-fa28295872db,Lawrence Johnson,19,648,POS,None
+d8d7a35a-60a8-4272-9a89-69f38ac06ced,Susan Kirk,65,1041,POS,Heart Disease
+c2484408-7d41-47cc-8456-c380958bad4d,John Benson,49,556,EPO,Asthma
+324b56f2-f097-46f9-8391-f146c6a71f7e,Dale Franco,26,959,EPO,Asthma
+33d06654-c143-4d6f-87e8-84d34451aa0d,Cassandra Christian,49,443,POS,Hypertension
+604223bf-bda4-4dfb-9390-2861f62c02b1,Brandon Levy,33,556,PPO,Diabetes
+dfffdd4e-2d26-41a3-8899-dd15abdf58c1,Kevin Jones,30,418,PPO,Hypertension
+2e1701e2-b264-4cee-a372-07ded1730c63,Douglas Marquez,27,290,EPO,None
+1fe6eaee-d67b-4d03-8786-786756b81dca,Laura Kelly,32,942,HMO,Asthma
+ef247bfd-85af-4b1f-81dc-224fa52d9e4d,Denise Hartman,55,1060,PPO,Hypertension
+407105f5-4845-4b15-bca7-996b83d8d8ed,Mark Giles,20,654,POS,Heart Disease
+e94d4e05-5c2c-4a56-856f-3f140cba274c,Michael Ayala,36,963,POS,Diabetes
+60b131da-cd05-49a8-9192-6434e5441700,Jacob Moreno,54,799,PPO,Hypertension
+e3118cda-857a-4be4-8c04-f2d679aa86d6,John Craig,50,1047,EPO,Heart Disease
+5a415584-c397-42c0-a0d9-9e53072e30fe,Deborah Williams,24,795,EPO,None
+5a2876f3-bdac-4a70-a9da-d7d82bd556ff,Lauren Roberts,58,510,EPO,Hypertension
+a4cb44af-ef59-4366-ba8a-323e604b2602,Luke Fuller,59,1081,EPO,None
+cd52d49f-9cd3-40ff-9e79-1afc769e5b29,Carol Brewer,36,268,EPO,None
+779edbbb-a806-4538-8049-e2f818a92c6a,Jeffrey Wells,69,1119,PPO,Heart Disease
+743a1d0a-d53d-4b30-a0ea-03bc611967a6,Robert Lee,45,1182,HMO,Diabetes
+2797423f-e3bf-4338-bef3-b3481462d3b5,Raven Collins,58,765,EPO,Asthma
+820267a4-c8de-4ee6-b367-3b2b82feb1d5,Pedro Combs,29,1066,EPO,Hypertension
+078254db-9eec-46ee-a2a2-843e210ae777,Alexander Smith,59,189,POS,Heart Disease
+7bea5479-d634-496d-989d-aedc2831aab3,Lauren Fischer,48,699,PPO,Asthma
+df31ce72-16c1-435c-a854-6ef5005f7011,Gregory Watkins,52,1126,EPO,Hypertension
+c271bc8e-2859-486c-9290-69abdf9b1b63,David Stephens,33,585,HMO,Hypertension
+4c28e628-7353-4c52-938f-4d3cceaf3b79,Isabella Cobb,61,315,PPO,Diabetes
+c48703e5-aafb-409e-8c3a-b1d4813d06f0,Brian Davis,66,378,PPO,None
+6f8e3a9d-a31e-46df-b98c-3c8be71ea716,April Page,62,1072,PPO,None
+c277b766-3599-489a-b6c0-2ce1cf4ad884,Lindsey King,42,799,EPO,Asthma
+dab14995-e7f6-41a3-9301-7855eee1199d,Kristine Sloan,52,527,EPO,Heart Disease
+ddd1e7a4-3f22-43e3-84c9-1419e51bc6ba,Stephanie Powell,32,1062,HMO,Hypertension
+b9f80f16-95e4-457e-92ba-e85b885ea042,Cynthia Roberts,45,409,POS,Heart Disease
+5460b9b9-d385-4b7e-b88d-8b86bd8a0c2c,Jose Jackson,27,247,HMO,Heart Disease
+afb2891e-d5ef-4c98-8bef-2ca93e859fa3,Diane Marshall,62,644,EPO,Asthma
+72ec51d3-fffa-4966-a233-2a72764b8440,Kristopher Wallace,44,834,PPO,Diabetes
+811764e5-ad27-4828-aaef-2518f255a0ba,Chelsea Henson,66,963,POS,Asthma
+3e8f50cb-fdd3-4ed2-817a-2e402990d292,Tanya Watson,34,174,HMO,Hypertension
+75a69291-0e8c-4f2a-b226-9fe4e33cbabb,Joanne Rhodes,43,480,PPO,None
+f599b50d-5e94-4290-a9ba-45bceae20c25,Jennifer Vasquez,56,1034,HMO,Heart Disease
+c0de1634-59c4-4776-834d-1ac755e3fe38,Michael Schwartz,39,556,POS,Heart Disease
+725ee777-4381-450c-ad02-f25610cf35ef,Melinda Carrillo,25,1014,PPO,Asthma
+17c799f2-8b18-41bc-b0d0-8c5ad1b43a9d,Brittany Holland,20,1023,POS,None
+0143e755-4ac6-413c-b544-1a761c292745,Michael Davis,67,400,PPO,Heart Disease
+cfbac4b2-2b06-43e5-ace4-e5c1d18f01ea,Eric Wright,41,679,PPO,None
+5e635861-8877-4dd6-b2e2-2ff701681ed1,William Johnston,26,943,HMO,Heart Disease
+b8a3554d-c80c-4eed-a78a-45cc89cacb81,James Johnson,56,930,PPO,Heart Disease
+1abe3fca-2246-4e09-8a0e-eef69e475d14,Taylor Carr,47,915,HMO,Heart Disease
+47ef9de5-adc2-44d4-8b44-cb7f97137ecd,Michele Pugh,22,1105,POS,Asthma
+7c12c5f7-1eae-4c9a-a908-8641a522e904,Melissa Green,24,986,EPO,Diabetes
+f6ac60bb-1db9-4ed9-9b53-d4ef5a976f7a,Kim Collins,27,363,HMO,Diabetes
+1b95491c-8bfe-4921-9d74-136013704c4d,John Mendoza,64,206,POS,Diabetes
+aaf2643c-0904-4d90-953d-88fe02a305e6,Jenna Reese,64,507,POS,Diabetes
+122d3d6c-06bf-4a24-aa99-2cf1c3475433,Mitchell Hubbard,25,414,PPO,Diabetes
+f5609ecb-b445-4f5c-b726-86f4db34794d,Katherine Wang,25,193,EPO,None
+3241eecc-9a86-4e08-a62a-a531d0a82f94,Felicia Norman,37,396,PPO,Diabetes
+fafdbbe0-f393-49b1-8fc7-ecb5d5aedfd5,Lauren Carney,29,451,PPO,Heart Disease
+ea782c3f-100a-406e-9638-8c62e3031467,Mr. Jeffrey Cochran Jr.,49,706,EPO,Diabetes
+1c0ef366-af9a-4392-b8c6-5dc2c96531ba,David Huffman,38,1149,HMO,Heart Disease
+e61bb4b4-3d7f-4618-b24b-e0c3d0cc289a,Todd Parker,31,369,POS,None
+9f943857-3669-4771-873f-7053b385e7be,Roy Cardenas,52,1013,PPO,Hypertension
+76244a88-a326-4275-a0bb-d1ed67f1f8b6,Erica Williams,29,363,HMO,Heart Disease
+617e3dd5-15f5-40dd-867a-dbb35df8f057,Mark Fuller,24,262,POS,Diabetes
+efdfce96-fd1d-4eed-87e1-cb54504777ff,Jamie Rivera,56,351,POS,Asthma
+9fd832db-e6a8-4913-bb95-964d69829d79,Jill Taylor,63,487,HMO,Heart Disease
+0b76acb9-5432-4585-bd97-13a708c9438c,Scott Hudson,18,205,EPO,Hypertension
+2eadef22-fda4-4de5-9786-cfe1378a240b,Scott Huber,55,859,PPO,Diabetes
+4ae23f39-6e3f-4704-be4f-8bb7cbf61a91,Joyce Myers,24,885,PPO,None
+382a2718-f251-4600-8781-ed4863d122ec,Jasmine Martin,40,801,POS,Hypertension
+ce168c32-e8bb-48bf-82ed-7aaae4b0612a,William Stevens,36,304,PPO,Diabetes
+81746ccb-8812-4118-a429-cf229a0f1dce,Mr. Raymond Butler,63,806,HMO,Diabetes
+19045214-479a-43b2-9245-96f6f7f3dc65,Samantha Brown,39,214,EPO,Asthma
+98ccb525-def2-47b0-8393-86028007809e,Mark Lang,37,220,EPO,None
+c90183cd-5168-4d36-84ec-e653704a653c,Michael Johnson,18,1148,EPO,Asthma
+9deb4d8a-2975-44ed-9381-9dcf196e1a9f,Michael Graves,63,495,HMO,None
+cde93953-4aa1-4026-9eb4-8943f93177d5,Jessica Stewart,23,1171,POS,Asthma
+439de048-2c8f-4a04-920d-2089227b8945,Cheryl Hayes,45,1096,EPO,None
+d69e423a-f5c7-41cc-9034-ed743381fb04,Katherine Rodriguez,46,242,PPO,Hypertension
+04c0cfe3-15f8-42dc-a87c-b8e6bcc850a2,Grant Scott,50,1068,PPO,Asthma
+053a9171-4e33-46b3-ba14-d02a81a91dc5,Stephen Sanders,29,171,HMO,None
+9af8773c-b493-4a9a-b64c-7fadf618e9fd,Patricia Austin,38,666,POS,None
+18377f1c-c138-43bc-bbed-ce4fd968c308,Anna Lyons,51,1043,EPO,Diabetes
+dc2e1c92-7747-42d0-8801-6d1a7065ef66,Wendy Williams,68,269,EPO,Asthma
+f29ffe34-7413-465e-abc3-e1b2573b0f0d,Brittany Patterson,22,1159,POS,Diabetes
+b8543dab-bc77-42ad-aa10-aea4b27571fd,Frederick Ruiz,29,214,HMO,Asthma
+34332a9d-024c-4ea7-9dfc-739c2480a7ab,Jenna Mcbride,19,695,EPO,Heart Disease
+6c031dae-c8dc-4b9b-9a97-10de74108f62,Olivia Thomas DDS,62,541,PPO,Heart Disease
+d367c3eb-1ea9-478a-8b7a-bcf782ece350,James Duke,58,452,HMO,Heart Disease
+492dd3d1-5ba5-421a-a064-56192e924f2d,Francisco Martinez,47,621,POS,None
+dbe2aec2-9e38-4f1e-834e-878f70d0f6e6,Brenda Long,60,1027,HMO,None
+6fd1d518-9e6d-472f-a83a-121bf8e9e6d0,Justin David,45,583,EPO,Hypertension
+381d8cfd-c143-4478-9dfe-1a4ad23e5e87,William Irwin,61,731,POS,Asthma
+d13098b4-dae8-4c57-b261-210f4b346caa,Sarah Dennis,54,391,POS,Hypertension
+0549d95c-877e-4e0d-b024-31c9204643dd,Veronica Bean,36,701,EPO,Diabetes
+f6884088-5581-4d93-8123-e3b1b327d90c,Casey Fernandez,40,983,HMO,Asthma
+6fa18a15-fd9f-4b59-bf97-62a3bfb3021d,Jeffrey Woods,36,666,POS,Heart Disease
+c0415d4e-757d-4698-b6a7-6cb0015e1bea,Karen Harris,64,522,EPO,Asthma
+ced21927-b27b-4b7d-aaa9-cbf643912201,Elizabeth Medina,18,706,EPO,None
+8c7c7420-6e8a-4da3-bbec-6a51c7f127ff,Alejandro Lopez,20,808,PPO,Diabetes
+172dc580-4712-49dd-b517-31a0c2acdfb7,Kimberly Wilson,50,255,EPO,Heart Disease
+ea15943d-1b26-4436-81db-3d779e607267,Jacob Conley,19,324,POS,Asthma
+22c249af-bd43-4a47-8f9f-3e21d466fa46,Zachary Gonzalez,25,442,EPO,Hypertension
+ce3f06b6-7635-4942-b9e0-4c889281009a,Robert Perez,46,851,PPO,Hypertension
+02114f35-b230-45ec-a647-e22dbb52c99c,Joshua Lopez,43,494,HMO,Asthma
+9dc25f27-305a-49dd-82b7-4e72c86d4719,Thomas Porter,67,915,POS,Asthma
+38971565-855f-421e-9948-99d0b6b86d12,Michael Chavez,53,751,HMO,Diabetes
+dd29c19b-2fb3-4610-ace8-9325e8e2c659,Benjamin Pearson,35,157,PPO,Heart Disease
+bcb82abe-346d-45c4-9fb7-2c82d81701b1,Kelly Kim,44,628,PPO,Hypertension
+0276b8f9-035d-4ebd-89fe-f493752a6121,Andrew Bell,53,496,EPO,Diabetes
+e0089241-8f1f-4456-8889-0f02dd13e1a4,Johnny Schwartz,70,474,POS,Diabetes
+c8360306-6dc1-4cef-a1de-e3782184f959,Destiny Allen,34,173,HMO,Diabetes
+d6b2af99-ccdb-416e-b6b1-e55001029323,Larry Lopez,52,602,HMO,None
+be69c45c-1f16-4d0b-b456-cad3f72cd8f6,Heather Gibson,24,258,POS,Heart Disease
+26511e2c-13ad-4a5c-adc2-1199f8878945,Douglas Lewis,51,402,EPO,Diabetes
+ef6d13de-f889-4369-98af-03a22bfa28ae,Luke Taylor,24,726,POS,Asthma
+68f6c684-5718-4f20-9f51-6335de8a598a,William Robinson,56,201,PPO,None
+896fe473-8fb1-41cc-b6b0-0746138092c8,Philip Farrell,21,1100,EPO,Diabetes
+54ac0a13-a35d-407f-879e-7b45faf07245,Kari Keith,26,798,PPO,Heart Disease
+21143562-4047-4f96-8d77-9cd7ddd74afc,Thomas Perez,55,1177,PPO,Diabetes
+36766e8f-7a81-491d-9306-1abbb74e7d7b,Nicholas Mack,67,240,EPO,Diabetes
+e6d9f392-ccc6-4e0d-a8ba-d4d0b1d2ae97,Shannon Thompson,64,1053,POS,None
+d5267246-9780-4a90-99b4-96e9cc687b04,Tyler Lee,55,976,PPO,Diabetes
+d909eea9-7486-45a6-a4a2-a4f96a80ca6c,Karen Rollins,50,159,EPO,Diabetes
+c01a2d45-c806-485f-bc2d-87ffe10def93,Anthony Lynn,24,270,EPO,Diabetes
+0298e68b-14ad-4f61-b9f0-cdbc73c3d4f0,Sheri Li,61,731,PPO,Hypertension
+fd1c7778-488d-4946-8171-9625655b3570,Taylor Archer,57,1137,HMO,Diabetes
+45d4fa23-d579-48a2-b05e-b76b82c19b55,Kayla Patel,40,872,PPO,Hypertension
+b49c11f3-50af-4dc8-8f84-f18efff3f14a,Mark Guerrero,24,650,POS,Heart Disease
+da5742f6-1a1a-44c5-87df-2780fb799dd7,Ryan Mcclure,24,361,EPO,Hypertension
+10e420b6-ba70-4af9-b2f6-a43a4f30f346,Gary Adams,69,1006,EPO,Asthma
+941f6523-dcf7-44cf-804e-7c6d9b7ae51a,Jordan Jordan,38,733,EPO,Heart Disease
+583680e0-934c-4dff-906e-f3523b99ea83,Erica Larson,40,1034,EPO,Diabetes
+795493a7-0267-49a8-b6e1-e874ae62b1bc,Jessica Knight,49,690,PPO,Hypertension
+3397dbec-6a0b-486e-bb89-994c447a4565,Casey Cisneros,46,759,HMO,Diabetes
+5226400d-9175-475b-843f-48084da1d904,April Hogan,19,809,HMO,None
+ced212f1-595c-4629-80c3-2ccf78f9e2bc,William Davis,22,262,EPO,Diabetes
+ea47391e-dda7-4b69-a489-ad48114ef8d7,Brandon Campbell,69,694,POS,None
+25fe1278-d122-4ceb-9fbb-7af997c85205,Joanna Cooper,33,914,POS,Diabetes
+0ff7bb73-f96e-4be0-bb4c-7b3be6a20ad1,Hector Daniels,34,467,PPO,Diabetes
+988a69f4-6b78-4bd5-9ee1-e5f5c3a25d37,Michelle Thomas,55,1040,POS,Diabetes
+452d0cb2-9c43-4abc-8c58-541b37dcda4b,Andrew Walters,58,834,EPO,Asthma
+4c7c122e-e8a1-4c42-8f98-69c4fbdf7000,Tracy Nicholson,48,221,EPO,Hypertension
+dbb4470f-7ca4-4283-95eb-6358b0131473,Latoya Mccoy,47,293,HMO,Hypertension
+1a8c3b20-012a-4c19-802f-963d878aa8a2,Brittany Thomas,70,1009,POS,None
+1922c628-c319-4d6c-9a07-c24a42fd3d42,Heidi Greene,32,430,PPO,Heart Disease
+2c529b81-7613-49c6-9baa-78d3c4fa71a5,Natasha Young,49,458,EPO,Asthma
+5fcfcf68-6e50-4577-a6dc-000c4b03c06c,Barbara Sanders,27,1068,POS,None
+70f4c6db-4563-4afc-9503-d3bceeb49379,Wayne Roberts,56,1148,HMO,Diabetes
+70ca7470-c104-4985-b8d7-1a5b48e66cfe,Jordan Moss,63,710,EPO,Heart Disease
+e3d565a9-c553-4209-bef8-a53c3c21d638,Albert Peters,24,999,PPO,Heart Disease
+d612883f-815d-4b4f-8ab8-9de67130b658,Zachary Lowery MD,33,1176,PPO,Hypertension
+9263507d-2699-462e-811b-1421dd9deb3f,Haley Ruiz,40,770,HMO,Heart Disease
+7e104804-140d-4227-9a9c-3be4ee7581c0,Jean Hernandez,27,188,HMO,Diabetes
+5fdb81c5-7124-49bb-9e80-e8266fa13a49,Andrea Guerrero,67,655,PPO,Heart Disease
+f05267b8-a9aa-46f7-98a3-5461cb12c971,Cheryl Ferguson,63,285,EPO,None
+b62a825f-4b8b-426d-b50d-b81682b35c62,Tracy Burke,67,608,HMO,Asthma
+42caf8a8-c761-4e88-baa1-e3a1e4ebdab0,Cynthia Park,18,317,PPO,Hypertension
+a074fe52-d2a5-450a-a9bd-4de47d6319e8,Joshua Payne,28,667,EPO,Hypertension
+d666b701-46dd-4d29-b6bf-1c0635508a4b,Diana Chavez,45,294,POS,Heart Disease
+a650e265-b722-44d7-8346-c143b395f92c,Mrs. Marie Jenkins,41,698,HMO,Diabetes
+79dcecd9-52bb-43b2-986e-64478eb2eb79,Diana Andrews,45,1091,PPO,Heart Disease
+39cab7d6-12b0-4135-948a-cfcce45c0f33,Michael Harrison,63,728,PPO,Asthma
+e01fc227-68b0-44a6-bb39-7eabfc2986d3,Sandra Tran,20,1039,HMO,Asthma
+bcdfd401-6dca-4183-a879-3275acc1131f,Mario Ward,69,581,POS,Hypertension
+61ac0cee-382a-4488-9401-2b9fb8aa51e2,Melanie Baker,53,469,EPO,Heart Disease
+eca84093-7223-4012-bc0e-16c697e5b5d6,Barry Gallagher,63,832,PPO,Diabetes
+9ee1e1bf-e258-4bf5-8814-2b442521ba13,Timothy Ray Jr.,56,1189,HMO,Asthma
+31d1a204-f165-4383-8497-ec0298ef02f0,Jason Shaffer,42,849,EPO,Diabetes
+0bfe8ab6-333c-4546-b02f-f3c2b7b01f36,Patrick Glover,31,344,EPO,Asthma
+dc60eae2-3291-40c8-97d7-2996b66dfdef,Susan Cook,19,815,POS,Diabetes
+67220db5-b580-4ef8-9d23-c4ef9fc69f27,Tammy Lutz,25,592,EPO,Asthma
+c40413e2-b8dc-44e7-a459-2c33262da56a,Emily Padilla,42,1174,PPO,Hypertension
+e62acb86-7bd8-44f6-884d-d88e1b75a7b3,Grant Hall,60,854,HMO,None
+c162e1ec-f73f-4a0c-8395-2d5ee28ce9ec,Jimmy Silva,30,608,HMO,Diabetes
+abacf346-795e-4c1c-a6fd-8627fdc732a9,Sarah Hunt,30,784,EPO,Hypertension
+c2e67657-a346-490a-bda6-beaf2da8b939,Kristine Boyd,69,567,HMO,None
+c8191ffe-f291-4b4a-96ec-8e3785e281a5,Duane Jackson,45,945,HMO,Hypertension
+e05d2393-1500-451b-a87d-8746df174f96,Angela Smith,19,862,PPO,Asthma
+1d848e8f-3118-4392-bc73-6e2cba03bc72,Kendra Phillips,29,491,HMO,Hypertension
+af044b6c-0c30-4028-84c5-8f562fd3bd9d,Melissa Murray,55,941,POS,Asthma
+3f01a5c5-6da3-4926-9494-b6b002511199,Deborah Stewart,28,635,POS,Heart Disease
+ac4e306a-5010-44c0-931b-3dfc6ab89ee2,Marissa Barnes,42,223,POS,Hypertension
+c8a349cc-fe87-43cb-98f9-7d80ff01af07,Zachary Perez,24,260,POS,None
+308ae2d8-7d76-44be-8100-78ae6ba28716,Ruth Davis,24,597,PPO,Hypertension
+6eb3e105-f029-4954-8ab0-ece303ce37e7,Matthew Wade,20,843,EPO,Hypertension
+b30235d0-f564-4788-9231-78e860222e44,April Jackson,54,486,PPO,Heart Disease
+3e5fb269-2438-4e32-abf6-12ea992dec65,Brianna Shah,66,1185,POS,Diabetes
+291f7098-0d90-464c-8d84-0e6b9d9a0d2d,Shelley Riley,30,325,PPO,Asthma
+004da3b0-419b-4c25-aa0a-3bbf08c969a6,Robert Floyd,41,1107,EPO,None
+768e154e-94c4-4c26-9faa-4a249690c8c9,David Thompson,40,444,POS,Heart Disease
+c37ae61c-9998-4c86-bc89-98ebdd3a1bcf,Valerie Reeves,36,602,EPO,Diabetes
+c6b617ce-87d7-4f83-a507-d07ef17a72d9,Rachel Gardner,32,462,EPO,Heart Disease
+8ef3bd5e-3a85-406b-b553-f8fa83fe5417,Jeffrey Guzman,44,318,HMO,Diabetes
+3c5e42e5-5d42-4577-82b0-515997b863a5,Jerome Henry,44,1110,POS,Asthma
+65c4fa6d-77f9-4270-813c-26d2ae67e64a,Krista Brown,23,899,POS,Heart Disease
+70ca21d7-948e-406c-ac5a-f98ff3d69074,Daniel Murphy,30,1024,POS,Diabetes
+aa6e14a1-e3ef-4e27-8534-dc42514f1bec,Tonya Simon,28,704,EPO,None
+92a1816e-f58d-4f0e-840b-81023854b65a,Cindy Cruz,69,609,POS,Hypertension
+dcd9e9e4-b64f-4b0d-97f7-1d6aedbb68ce,Alexis Wade,68,579,PPO,Asthma
+929be4a1-dbd5-4790-8807-0c4f50aa80d8,Nicholas Owen,55,237,HMO,Heart Disease
+9460f7b8-f635-441b-8f13-2b9a96e216b2,Leah Noble,45,1119,HMO,Heart Disease
+2727a0cd-b696-4944-be20-390ffc2ee48e,Danny Wheeler,48,742,POS,Hypertension
+21074110-bd05-450d-899a-14798e2344d0,John Bullock,62,1062,POS,Heart Disease
+0d60673c-3e01-47c1-a19d-e4056a23dc55,Gina Booth,27,389,HMO,Heart Disease
+178011fa-1ca7-4a76-a27b-f542da6bb8db,Richard French,65,792,EPO,Hypertension
+e3cc6b04-b60b-4ac4-be46-c9000318f06a,Cynthia Abbott,46,516,HMO,Asthma
+8bc4a590-5343-45e8-b5eb-7361e6a3af62,Sara Stone,38,242,PPO,Heart Disease
+4da4e0fc-25dc-4ff8-b56b-c51586884348,Bradley Wallace,29,874,HMO,Diabetes
+5aaeef28-76b4-40a1-b131-e7af8f33d251,Wendy Kelley,65,952,EPO,None
+258c0384-d32d-4f61-b98f-598520f9347a,Rodney Riley,67,994,POS,Hypertension
+f4c52bf2-42cb-4912-8eb0-97cad2a06ad6,Crystal Jensen,27,875,EPO,Heart Disease
+842bd58f-e68f-4d1b-ad93-4d68d8b06e21,Alejandra White,66,178,POS,Heart Disease
+18feb4ca-3f0d-43b6-8c5f-f069c767fbd9,Heather Perkins,58,395,POS,Heart Disease
+e31a9771-a470-4540-9204-663099b98e16,Samuel Robinson,28,700,POS,Asthma
+2af4ac1b-d92c-4c25-ac08-d526c9a2726a,Amanda Gordon,26,390,PPO,None
+80673376-5878-44b2-b77b-7cea06f8911f,Nicholas Hicks,22,817,EPO,Diabetes
+f77611a7-525e-46ee-8f7d-b1917b180719,Joseph Wagner,32,577,HMO,Diabetes
+1a7bd884-f610-499b-a547-f879eae0b307,Joseph Wheeler,64,545,PPO,Heart Disease
+13bea1d3-6832-46de-bf0c-9adc11b8af4f,Angelica Sullivan,42,726,EPO,Heart Disease
+cb927567-956b-4a75-95f3-c60976c8d88d,Deborah Mitchell,49,1094,EPO,Asthma
+bac3e89d-6400-48b9-8007-649499564b07,Taylor Santana,25,561,EPO,Asthma
+13a888e3-a5c6-4723-ae16-47eef8b6ac68,Michael Cabrera,52,1147,POS,None
+ce095102-bc49-412c-b4b2-a4fda2222dfc,Gene Graham,20,538,HMO,Diabetes
+4f338dd4-5dce-436f-9d26-a52d7d9de252,Christina Jordan,36,253,PPO,Diabetes
+980ccaeb-b943-40f0-a39e-80c9fa13676c,Kristine Stephens,25,211,POS,Asthma
+b66d9d17-a80e-4336-9f54-606ae7f9d7a9,Angela Wood,25,784,PPO,Diabetes
+06dcfb72-1c22-4acd-a333-bda02c8ede7b,Albert Simpson,55,873,POS,Asthma
+d72d1429-ff15-4b3e-88e9-499f9a466171,Kenneth Oliver,44,197,POS,Hypertension
+1bfafe6f-438a-40f1-9a2e-1e6bdad6f607,Amy Rodriguez,57,1197,POS,Diabetes
+a1257695-7f8f-4d1d-b1e4-c0cbef3a4950,Vanessa Haley,39,336,EPO,Diabetes
+ca6e9506-786c-493e-842d-43aaf3438660,Nicole Gonzalez,25,1170,EPO,Heart Disease
+3a5e901e-0ec0-4471-90fe-c1356d8fd4e9,Carly Hickman,26,1038,HMO,Hypertension
+12c2e7c1-4352-4c2f-8ac8-f7f1e4cc1919,Nancy White DVM,39,224,POS,Heart Disease
+827c450b-db45-4b46-bfa8-c24ee1bbecad,Ernest Ross,18,229,POS,Diabetes
+7e0a9846-e6b6-4533-994b-0bcf8cf936ab,Matthew Ramirez,29,1033,EPO,Asthma
+b03d38a0-4246-4d9f-aa1b-0810e10a9ba5,Angel Schmidt,37,184,EPO,Diabetes
+6d451aa7-65f8-45ca-a0a6-2f8edc555ba5,Sherri Perry,55,777,HMO,Diabetes
+0751b0eb-e639-4ed6-958a-c7d0965e5122,Laura Shaw,66,445,EPO,Asthma
+e5da1316-7f92-40d2-b3df-8f758d855c19,Cristina Smith,70,774,EPO,None
+bb9fea17-2ac9-4ad0-982a-64181ac1bf52,Dr. Teresa Zavala DDS,60,1110,EPO,Heart Disease
+a4ca316d-3f49-4d6f-8229-6749eca27255,Brian Page,34,212,POS,Asthma
+6b560975-f579-4cd9-bf48-8975c0512086,Amy Rose,35,638,EPO,Heart Disease
+21c74907-ba8a-4f16-b53c-96488ee303d8,Sharon Ferguson,40,298,POS,None
+95e2b908-6542-445a-a022-51f60322a346,Gabriel Riley,44,731,EPO,Diabetes
+b79e05d2-f2b4-405c-8eb5-b48df1b06c45,Cynthia Harris,32,199,PPO,Asthma
+6b7c3984-2ec4-4e68-8cb4-b9c1c7e99512,Heidi Shea,41,885,EPO,None
+840a0914-5d50-44ec-878a-b9f8ad26a450,Ryan Murphy,25,409,EPO,Hypertension
+3f590b62-e2eb-46cf-939a-b90b11900c0e,Andrea Bennett,45,820,EPO,None
+ebf6fe34-8246-4ee8-b96a-a9a51a9c9c90,Nicole Gardner,20,770,PPO,Diabetes
+17e76730-0f77-4dbe-b49b-3d65009d9b80,Michael Fox,37,689,HMO,Hypertension
+1ad7c315-45ff-4b40-a587-8c0b97d9341c,Michael Price,32,322,HMO,None
+33ccdd76-9f4f-4bf8-a2a8-1e84930afae0,Billy Hanson,65,627,EPO,None
+9a84b6ba-32e3-4047-84db-ea3da9f67146,Mrs. Amber Johnson,38,533,PPO,None
+cb6a18c8-a8b7-416f-ae96-3aa16f663560,Michele Hodges,46,897,POS,Heart Disease
+27eaf9e0-4c97-4c50-bf10-19b13ea444b0,Kenneth Hoover,26,525,HMO,Heart Disease
+861587b3-d5be-453b-a57d-2fba85cb59cc,Judith Woods,60,851,POS,Heart Disease
+e2572a0a-7845-4c85-8fe5-7cd91b183abf,James Smith,58,350,EPO,Asthma
+3d770f66-5151-46da-9dcf-5579d4bca2f0,Sandy Burns,24,632,PPO,Heart Disease
+48186d61-d28e-4165-8f10-4595685cb254,Brittany Edwards,40,384,EPO,Diabetes
+86b2c78d-ea1a-4551-bc06-9e38171858b9,Maria Rich,68,1161,EPO,Diabetes
+75efd3c3-420f-4878-8b16-2850095f148b,Mr. David Buck,25,859,HMO,None
+d0e70197-1653-4cc8-a637-9c0fc6cc270f,Michelle Davidson,31,683,EPO,None
+48b9a298-73c3-48f5-acb2-0f1f494b8500,Sierra Mahoney,33,333,HMO,Asthma
+70d4eb0b-9f4b-4a72-959c-d7ab79ebca0b,Lydia Turner,42,945,EPO,Asthma
+b46ffb55-72b0-42b5-a94b-e849d85e86d1,Nicole Richards,25,195,EPO,Asthma
+4f3a9269-e9d1-49f4-9bdf-efa767d27c5d,Lisa Richardson,42,715,EPO,None
+45aac55c-2a8e-46ea-b0ef-de4e5f8e4f02,Shelia Carney,62,168,HMO,Asthma
+8056dc19-6218-4cee-95f7-af39404cbf40,Mr. Timothy Jefferson,23,1055,EPO,Diabetes
+b740d9a6-4b4b-4266-9195-77c0f0b036ec,Dwayne Martin,69,386,EPO,None
+901da0bd-5ecf-4226-bf94-9a01473cf898,Reginald Santos,29,860,EPO,Asthma
+449aaa0a-ded3-4f71-9fe3-12ed00859f8e,Rebecca Grant,47,1158,HMO,Hypertension
+e10f8fb9-3fa2-4c18-890d-7e12c8551235,Michelle Lopez,68,1067,POS,Hypertension
+1c9b3e0c-a6d7-4ed9-ad8a-07ce8c7824d4,Luis Scott,30,520,EPO,Asthma
+14e63a68-94e5-4a61-b00b-1720e5f710d8,Julie Nichols,24,856,PPO,None
+bbf11ee9-0479-494c-b616-8f27ddb12ab1,Jessica Villanueva,68,1160,POS,Heart Disease
+2a3cd5c8-18ce-4870-b6b0-37932c5ab822,Troy Jones,49,486,PPO,Heart Disease
+95a94e25-7265-46b1-a9e8-c5f6a3112b73,Sarah Ashley,41,871,PPO,None
+f45830d4-c43b-448f-873c-ee27c89fea27,Ashley Barnes,58,617,EPO,Heart Disease
+47eaa705-09fc-44d5-9102-053d2dd1c069,Mandy Lester,55,660,EPO,Heart Disease
+a14bb564-af23-4b2d-9ca1-834e5cdaec9a,William Robinson,39,968,POS,Heart Disease
+349dee7a-52e8-4b6c-8882-983d60ca8041,Felicia Howard,64,191,POS,Heart Disease
+002c31e8-9732-414f-8ec6-6636f4894f82,Tanya Bradley,36,247,HMO,Hypertension
+ad7826dc-2e7b-4ed9-b370-c838fc35bab0,Crystal Robinson,46,682,HMO,Hypertension
+f4564a20-ddfb-4e65-8c42-809e78989886,Michele Miller,48,581,PPO,Diabetes
+ee06fc13-c0d2-442b-a346-2eab6e31cd26,Barbara Lee,58,862,PPO,Diabetes
+e60d1dc6-f6c1-458f-b0ce-a0533010aa2b,Alyssa Tucker,63,452,EPO,Hypertension
+a35fcf5f-b4f2-4273-895f-e6bdec8f81de,Ann Sanders,21,884,POS,Hypertension
+0ee237f9-5543-4bca-b702-bc614ee4d564,Steve Stephens,43,153,HMO,Asthma
+891c0cab-3c0f-4d12-a9ed-d376a2eb15bf,Anthony Nguyen,29,1039,EPO,Asthma
+22e9aae9-890f-4e66-b93d-cbd14e2a9f01,James Wright,43,1114,EPO,Diabetes
+1401efe2-b104-418a-9349-d5ff7af75cdf,John Hayes,64,379,HMO,Diabetes
+83ab3643-ac59-4c98-8765-0154d132bfa1,Calvin Gomez,38,564,HMO,Hypertension
+4dc2d593-b320-4c93-954e-4fea85325675,Dennis Chambers,29,280,EPO,Hypertension
+251c4075-8679-475c-85d0-dc32a806045b,Larry Martinez,45,951,EPO,Diabetes
+a1e6730f-a027-4e2a-9a14-119534c7f914,Miranda Dawson,55,239,EPO,Diabetes
+e6e80327-9d14-4628-8120-e57e17b28154,Peter Lyons,51,736,POS,Heart Disease
+f51a4462-7963-4288-b483-4e29209c487f,Steven Grant Jr.,47,779,EPO,None
+c9767691-33a7-4b3b-bcff-9ef710e677fc,Sylvia Kerr,65,677,PPO,None
+e63441b6-6b81-476c-b4eb-a952e52d29e8,Colleen Ware,24,1045,PPO,Hypertension
+8f9ea3f8-2e19-4b83-90f2-bb8875977de6,Krystal Ortiz,56,938,PPO,Diabetes
+e45218b3-d226-4780-9c4f-0d1e561210c7,Joseph Villarreal,31,421,PPO,Asthma
+a39cd61d-2bba-4664-9976-071c76fd9381,Regina Lopez,19,420,PPO,Hypertension
+673242d1-7c1c-475f-9e46-3d64102a0746,Ashlee Nguyen,19,1053,EPO,Hypertension
+8217f829-d732-4547-8a5b-70591043979d,Matthew Martinez,53,982,EPO,Asthma
+a0e053a6-b80f-43af-b520-1b3e18cb0e3d,Heather Chan,26,400,PPO,Heart Disease
+bb717626-05bd-4d85-aad0-5fe11f49764d,Michael Moss,49,1049,POS,Asthma
+8c71cd89-4b9e-4a8d-b1b7-233663c7d269,Steven Thomas,69,372,EPO,Diabetes
+a24cfbdf-5bfb-47da-a87d-303bb3e0a41b,Ashley Fisher,18,682,HMO,None
+43dce634-195b-422c-850c-5f723b92c80a,Jennifer Davis,24,547,EPO,Heart Disease
+24780991-1b69-44e5-81da-d3b4229d8979,Debra Hall,57,625,HMO,None
+6789d9aa-1873-4e2e-a161-90de0e898131,Lisa Wilson,23,684,PPO,Diabetes
+df643664-b693-46a5-a182-d74619a3c468,Brittney Thompson,42,150,HMO,Heart Disease
+c03e3571-2991-4a05-9d93-99ad2ec3df63,Brittany Lynch,28,1079,HMO,Asthma
+1cbfa511-b6df-43da-a19d-8e0717450868,Martha Malone,65,371,POS,Hypertension
+1757855e-07e4-4e66-bcbe-c8daa65a63a6,Alex Curry,19,852,HMO,Asthma
+30222d76-6c30-4dd0-9eb4-5f6d6f31142d,Grant Lawrence,61,729,POS,Asthma
+6c4a6857-604e-472c-be5b-7f5e6cd090ce,Michelle Thomas,65,578,POS,Heart Disease
+e8877543-82ba-4630-ba3e-76a81eef821f,Richard Hamilton,59,619,EPO,Diabetes
+47ba96e7-a5c8-4e9e-ba49-cf9ca6c7f03a,Rachel Tanner,22,429,HMO,Heart Disease
+65bf49ae-06e5-49e2-992e-b6433b7ddb26,Patrick Jordan,52,314,POS,Hypertension
+23ded2c8-e3f9-4b54-9c1e-57c29e392531,Joseph Vasquez,56,228,EPO,Diabetes
+cb2add43-cd5b-4ba4-9588-83d2815ad674,Jessica Reed,61,482,HMO,None
+44721e83-0a97-4234-847f-e876aa256fd5,Kristin Richards,68,609,POS,Heart Disease
+b08fbead-bff6-468f-8782-8a2d900662ae,David David,57,278,HMO,Heart Disease
+75e2c5d6-5492-47e4-bd54-f7774b8e1789,James Mercer,68,342,POS,Heart Disease
+f613da93-e816-4de9-9092-1b51796ac068,Jason Roberts,21,999,POS,None
+8ff456cf-33be-4cd8-86ed-d4d91b560bb4,Cheryl Thompson,42,158,PPO,Asthma
+470286fe-2dbe-42cf-a79d-7cc8c9b9e958,Alan Armstrong,35,725,HMO,None
+89fd3dd8-5df7-435b-a63e-be0ee2a3a428,Adrian Stein,53,997,EPO,Asthma
+36331db4-5e8d-4f5f-b014-22095e9547d1,Dana Johnson,58,355,POS,Hypertension
+ce4ac76c-ecc6-4e40-a9ff-e008b9b94c98,Lisa Kerr,38,353,HMO,Asthma
+aee3576e-40d6-458f-8b74-2e030547fcca,Chelsea Fry,66,770,POS,Heart Disease
+7a078974-7cb1-46e0-92fb-a499ccb0db27,Marcus French,66,176,PPO,Heart Disease
+ec0d1717-3cf9-4909-83ea-8ff93f3a60ce,Kristin Kelley,69,1151,PPO,Heart Disease
+fe6b7fce-4ec8-481a-9d4f-532e2ac0341d,Joyce Baker,68,1183,EPO,Heart Disease
+4a382a98-134f-4431-ad6c-b9692c53ade1,Louis Lawrence,52,785,EPO,Hypertension
+1efe61be-0b84-4fbf-8b5e-de3c0a6ed1e0,Robert Martinez,62,452,PPO,Heart Disease
+bfec6c2f-e71a-4eff-a402-68db71bdba88,Janet Russell,38,237,PPO,None
+52e77d56-2e47-4b27-a3b2-97c9ae16b55c,Michele Fox,53,906,POS,None
+d8509b3a-3016-4793-aa92-78b4aa72644f,Cheryl Wright,38,750,HMO,Diabetes
+0fc24821-7cfe-4ac8-964a-0f7e115d677d,Gary Garcia,50,1040,PPO,Asthma
+7bb6cd09-ccd0-488f-aef9-67eec5460fcf,Robert Wilson,62,227,EPO,Hypertension
+f0b888c5-c8cd-4baf-94aa-9f367d8e12d2,Megan Burns,61,412,EPO,Heart Disease
+bff6e746-5f2e-4d53-aa50-37916700e33e,Joanna Torres,26,1076,PPO,Diabetes
+b2dcdee8-2ffc-4492-bac5-24e90804eef9,Aaron Horton,39,752,HMO,None
+630ddf5e-265a-4b9f-ba41-1971a1ea537a,Daniel Frey,44,1126,EPO,Heart Disease
+d15133bd-8312-4067-83e9-a0a95040156e,David Martinez,35,1161,EPO,Heart Disease
+ed2d7b52-69a1-49cb-bba7-49c3e2f87144,Annette Tucker,43,455,HMO,Hypertension
+7f6d7d04-6967-4ecc-b5f7-42abc79b301f,Mark Allen,23,901,EPO,Heart Disease
+8e6cf608-6c2a-4086-b6c8-a5550c803bd3,Ms. Maria Murphy DDS,51,227,POS,Hypertension
+b5da5778-6f41-4964-a2ea-bf733b3d0d4e,Jennifer Conner,59,804,EPO,Diabetes
+9320343e-3867-4376-b414-9e5a9d133055,Linda Hawkins,42,910,EPO,Hypertension
+f81884ee-c1a3-4ea1-935b-2f0ccec8b343,Thomas Gray,35,389,EPO,Heart Disease
+0eeb8c14-03c8-4903-93c3-fae2d9ef797c,Deanna James,21,957,EPO,Hypertension
+78300710-e46f-44ff-a704-d9c8da61a93b,Rachel Rios,60,763,EPO,Asthma
+60cef7ce-5f77-47f1-b56c-79e42ed21ac9,James Glenn,46,337,PPO,Hypertension
+561a1a17-3b84-4dec-ac88-fa24b52ccf12,Wendy Burnett,36,414,POS,Heart Disease
+366fb3f0-bbae-4ead-94c8-66f56b42d3a2,Kayla Hall,53,826,PPO,Hypertension
+24d6fa49-dae6-4a97-8f5b-8cbedda2c741,Elizabeth Reed,64,420,POS,Asthma
+67c9ce4d-c2bb-41b1-b8a9-d816f799b41e,Edward Morgan,49,765,EPO,None
+5e35999c-68a6-436a-9769-2552f2c423f0,Lance Edwards,49,1062,EPO,None
+cf778a00-43fb-41a1-9a63-33f9f543e5d9,Caleb Garcia,30,949,PPO,Asthma
+8c949cb7-f414-4d65-a278-eddcfe7bcafb,Krista Lynch,48,910,HMO,Heart Disease
+55d1a313-d945-46c0-92aa-403467e24187,Jesus Pena,24,848,POS,Heart Disease
+4c3c29c8-e646-488f-bcc5-41ee4765b71f,Alex Osborne,43,775,POS,Heart Disease
+c2b1d98c-e1bc-4b85-b060-29a8d303c9bd,Marie Higgins,63,699,EPO,None
+7770cfda-a06a-4d40-9db3-93e65138ab95,Kimberly Rogers,20,1099,PPO,Diabetes
+0f10c576-203d-4bd7-b26c-9719ec5300b5,Scott Jordan,24,337,PPO,Heart Disease
+9196d00d-b84a-4e32-9154-9ea82ad41856,John Phillips,62,878,POS,Hypertension
+d8d1ed85-a391-4ccb-8186-1df8f5514349,Larry Price,25,361,EPO,Hypertension
+45610e72-0251-4d4b-9cfb-8cabcf4efdb8,Michael Martin,50,578,HMO,Hypertension
+7abd4aa0-1f05-4f34-b27c-6786a956af45,Austin Price,21,1165,HMO,Hypertension
+f296691c-aa36-458c-a69a-51cb8510c45d,Eric Gibson,38,874,PPO,Hypertension
+7b0754de-8d8d-439a-ad44-f7d7761cf274,Kelly Morris DVM,35,532,HMO,Asthma
+3cbc29ce-d7db-4866-96ec-0800a1bac222,Ricardo Perez,29,1192,POS,Hypertension
+45deb4ec-ae07-440c-aad4-528ebde746f6,Daniel Brown,31,546,PPO,Asthma
+c033c782-950c-4304-b106-ce20cf7836ed,Danielle Shields,49,627,HMO,Diabetes
+0dfebe0b-0143-46b8-a98e-2288f1421b51,Dr. Nathaniel Morris,58,544,PPO,None
+2b571a83-9b56-4009-ac7c-f611adff5148,Jennifer Nelson,51,388,HMO,Hypertension
+57740220-f84c-4d7c-971a-7dc415e29822,Paul Hughes,38,1183,EPO,Diabetes
+981e148c-479e-4558-9f54-b67bce949093,Zachary Morgan,34,1192,EPO,Diabetes
+fc51d358-e010-40ff-a982-6f86bae72c70,Justin Roberts,44,1157,POS,None
+6212fc7b-26a4-4a15-84dd-a75ba9870803,Debbie Huber,65,723,EPO,None
+5a8badc7-7a8a-449f-b333-5c0d7e9fe030,Benjamin Ortiz,58,845,POS,Asthma
+5d997d9a-2b57-4dc3-99a3-013e7798f43f,Nancy Mills,21,636,EPO,Asthma
+bdc2d1df-3422-4a35-9ba9-68dac9f90915,Tamara Moore,65,335,HMO,Heart Disease
+e0c03cc6-f4e9-4365-b46c-3aa11906d5ec,Ellen Shaffer,57,267,PPO,Heart Disease
+90f81fb4-5b1d-45f1-81b4-95eea7a79115,Michael Ritter,33,805,HMO,Asthma
+0d311991-51eb-4d38-bc4c-557fb84959f8,Haley Madden,52,818,PPO,Hypertension
+c3e4f27a-8620-40b1-b326-8772dc93f601,Brenda Crawford,62,511,PPO,None
+1a5edb13-d290-4d55-b444-80c0d8325cf8,Rita Mendoza,61,224,PPO,Diabetes
+3e9c0426-c56e-47c3-9b81-753c7a2180f2,Jill Rasmussen,25,833,PPO,Heart Disease
+cdf1a993-9cd6-4dc5-80c4-37f4967b40f0,Brian Mccarthy,32,179,EPO,None
+8796dde5-bd29-4441-93e3-335c00958417,Jimmy Trujillo,51,976,HMO,Heart Disease
+99c17d4d-ac5f-4a44-aace-88fe592e6079,Rebecca Buckley,40,557,EPO,Hypertension
+d58b6ad7-78c0-4c35-8c1f-b682578b07af,Willie Jones,33,659,PPO,Asthma
+4d5eb362-3974-4d6c-b960-975adb9d34ba,Elizabeth Lewis,69,885,HMO,Diabetes
+aeaa635f-d058-4b11-a294-8e0b9379acf6,Timothy Nunez,31,867,PPO,Heart Disease
+e418571c-b1de-4c59-add3-45eed5c866a7,Katelyn Webster,37,1030,PPO,Asthma
+cdf01c27-910c-4e40-96b6-3d5013690001,Dustin Winters,50,820,HMO,None
+c5e59ad5-350b-4e57-b986-4a122489773b,Christopher Hanna,34,456,PPO,None
+b9969049-52a8-42c0-9b6b-39d68687550a,Craig Woods,67,1041,EPO,Asthma
+04b0b3ad-9a10-4b48-8132-d661ec474f21,Mary Michael,49,738,EPO,Heart Disease
+f4014a6c-ef27-4325-861c-41a4c2cf88b6,Robin Benson,19,280,EPO,Heart Disease
+65f5fd73-1eb9-4bee-99ad-3d7ab41bebaa,Sherry Hill,37,1032,PPO,Hypertension
+ede0dbd6-aab0-4987-af2b-ca33c9a1797f,David Brown,47,426,EPO,None
+bac8a9a9-0c3c-4a52-9672-b5ce3fe6d87a,Elizabeth Moore,65,823,HMO,Asthma
+972a3a77-c3da-420f-b105-40c82e5852a3,Phillip Casey,68,398,POS,Heart Disease
+41790689-b800-4d2a-a0fe-5ba42bca030c,Lauren Hernandez,42,152,POS,Asthma
+0edf7eb3-2f9b-4671-aea4-5d2c71a50bdc,James Nunez,25,542,EPO,Hypertension
+91b0e51e-6d17-456e-9ba7-5c4dfb94dc34,Bradley Jones,20,219,HMO,Diabetes
+24df0055-45a3-4a20-aa6d-67af171652ab,Kyle Tran,25,613,PPO,None
+9b6cad2c-94c0-442f-9e00-aa51eb862e8f,John Boyd,65,776,HMO,Asthma
+c635d0e6-256f-4cf3-815a-bd4e30be308d,Erin Baker,49,160,EPO,Hypertension
+3609c6af-a9a9-4283-9d58-57fcc3501771,David Jones,23,796,POS,None
+b5664996-e015-44c9-aa9f-efdf2fee629d,Justin Rocha,44,874,POS,Heart Disease
+17fcac19-43bf-4018-8a66-af1ab4a35c25,Joseph Jackson,68,372,POS,Hypertension
+4095477f-3356-4ba3-96fc-19f0439da10c,Philip Figueroa,21,798,HMO,None
+9845e890-8b6b-4dfe-898e-4b0e37b67b5b,Hector Jones,59,1054,HMO,Asthma
+0009ab08-ffd3-4c77-b605-2ff707d404aa,Shawn Lester,36,741,HMO,Asthma
+6a109c57-1e75-4a98-acc8-97ef3fadc0aa,Christopher Walker,69,1198,HMO,Diabetes
+606fd010-9ac9-4a64-8464-eaa3ed79b35a,Thomas Guzman,45,866,POS,Asthma
+58cabd16-4bfa-4b2c-bc82-4e142f7c9cc0,Rachel Bender,68,683,POS,None
+2409eeed-492d-46e0-a151-5a0d124c55cf,Jamie Blackburn,56,844,POS,Heart Disease
+952b1ca9-0751-46ec-b70d-871a5a4547d5,Courtney Shelton,24,812,EPO,Hypertension
+d165f81c-7851-4a3d-8bbf-d2f7ba9f5ea0,Richard Rodriguez,69,241,POS,Hypertension
+73c3764c-f7c0-442a-a258-c1eeb91cfb84,Allison Kaufman,18,292,EPO,Asthma
+1a433061-e5f8-4203-9617-bcf4b7f1bf2a,Patrick Dickerson,59,166,PPO,None
+55273284-6ef9-4fef-b905-71c74a76cdbf,Jacqueline Peterson,63,1078,PPO,Hypertension
+7a1ee89a-85fa-4e9e-a1ec-7ab2f933415f,Joshua Robinson,32,1044,HMO,Hypertension
+abd83d33-5f22-4a89-a812-304f7e874822,Katrina Martinez,40,286,HMO,Heart Disease
+b412f6bb-a0b0-4c8f-b7d9-4a58e883bb32,Christopher Holt,59,1002,HMO,None
+c8006078-372f-4a96-8199-69256d25f6c7,Brandy Steele,69,529,PPO,Hypertension
+c135e202-95e2-4be5-aab4-777193177132,Shelley Atkins,29,1008,PPO,Hypertension
+cd9a46b7-f59f-4223-ba7a-359da9113650,Robert Malone,31,1044,POS,Diabetes
+531a6434-4651-46c7-b371-f0d2606247ca,Oscar White,54,685,EPO,Diabetes
+18c2cf59-61fc-4e67-af1f-8b5aa13e20fd,Hailey Sanchez,41,319,PPO,None
+5fc9272a-c50b-4d4f-af87-16c48237c398,Danny Myers,29,452,PPO,Asthma
+6306edc9-8585-4157-add5-8d916fa3bfea,Michelle Brown,31,632,HMO,Hypertension
+86edd87a-9239-4873-bc3e-3ee1cc07ba8e,Gregory Newman,36,1141,EPO,None
+fe0659ac-2ec0-42f8-8efb-1dc044c7f5c2,Michael Wolf,37,1022,PPO,Hypertension
+96e77eab-7c47-4ade-874e-1dc223baef55,Nicholas Moore,60,748,POS,Diabetes
+62aaad5c-7141-4ec4-95cb-375c422a191a,Brian Foster,20,391,EPO,Hypertension
+41229dbf-fd74-476d-b520-80b3cbc612e4,Amanda Wyatt,26,237,PPO,Asthma
+5ba193cf-9030-4182-9bbf-d03fac0f7dec,Elizabeth Harris,68,181,HMO,Heart Disease
+8e766ea6-8c0c-43ae-9a61-8464ed0d3f81,Haley Miller,32,1003,HMO,Diabetes
+58b7a8ec-e370-46f2-8989-68d92b509a3b,Erin Hodges,41,428,HMO,Asthma
+6b9b628f-ef84-4791-a784-f18e285ab392,Stefanie Thompson,18,198,EPO,Hypertension
+6a2970c7-bf06-4054-8226-a224ee8c8047,Heather Vaughan,66,1125,PPO,Diabetes
+7e7112d3-5044-4f2e-92cb-2eb4107f9c78,Julia Hicks,26,1111,HMO,Diabetes
+b0f74254-a4d9-4de6-ac86-b5a704c6c554,Seth Fisher,46,826,POS,None
+6e26c9c1-a3d5-4aac-baa2-2c4f94c9d41a,Mary Maddox,23,744,HMO,None
+ab20c71f-d29f-484d-bd84-d57cd5b69f4f,Samuel Knapp,36,892,EPO,Hypertension
+e304b873-e840-4f06-b0fb-c8ca2a274e49,Chris Hill,34,778,HMO,Hypertension
+f6ff7f7b-f5de-4381-993c-9f850c1bd188,Brenda Nichols,25,655,EPO,None
+5aad849d-db12-4a12-9f4c-72bdb2e49d89,Laurie Huffman,44,771,HMO,Hypertension
+fbd120ad-08fc-4119-9459-09e6eca7c29a,Samantha Johnson,35,937,HMO,Hypertension
+e1c442e7-c2ef-4a0f-a48b-490e0107205e,Angela Horn,43,318,HMO,Diabetes
+836848e8-6f7d-4b4e-a884-7968df96f36c,Jessica Riley,37,1143,EPO,Diabetes
+a4c54717-dd8b-4403-8ef9-1f1fd422ca91,Andre Clarke,41,540,POS,Diabetes
+9c33083b-f2e2-4a9a-a9bc-56e2193607e9,April Douglas,34,572,EPO,Asthma
+e76f4e28-71c0-4508-96e6-8dcbc70dae22,Richard Alexander,26,901,HMO,Asthma
+0c0604c1-fa16-49a0-beb9-c3f53f17c521,Dr. Michael Johnson,39,1000,EPO,None
+1dd86c01-0dca-43e9-b1af-b43cc98f22a6,Wayne Horn,57,302,PPO,Asthma
+c24babe3-ef0e-4a92-9d03-5cee0df56611,Robert Fowler,18,945,HMO,Heart Disease
+60e7c2bf-92cf-49b2-8a12-1910a1351a9a,Carolyn Payne,21,975,PPO,None
+cecd70e9-7c29-4142-af04-cb2a3e8ada61,Jonathan Rodriguez,36,453,PPO,Diabetes
+5f69c9ff-4142-4f45-8ba0-edb67c50e11b,Jenna Chambers,25,221,EPO,Hypertension
+3fa9be2c-3b47-4627-817a-95f5f2771adf,Richard Flores,28,930,EPO,Diabetes
+a25b6281-a2a2-4ebc-ab6b-63af80fd1823,Greg Harvey,28,180,HMO,None
+85d61163-26e8-4bc5-9a06-c55a7f70d402,Marcus Thompson,35,1151,HMO,Hypertension
+56321235-c052-4af2-ba26-cde7a0ff34bd,David Morton,18,995,EPO,Heart Disease
+00ad6e66-db0b-408d-a5d8-dbec7be792af,Sandra Smith,25,218,PPO,None
+9a4de4b5-69ce-42b2-9d8f-c57cd67372dc,Ashley Tran,20,347,POS,None
+0c8f8b20-4399-4158-a480-029299104cfa,Kathleen Davis,59,593,EPO,Heart Disease
+60675e8b-69f3-4d60-a4d1-d36f1007c523,Adam Wright,51,1064,POS,Heart Disease
+334334c4-81f4-4119-96dd-f6883cfebab4,Aaron Lee,68,697,PPO,Heart Disease
+edc54f74-9675-4506-a2de-16182af8b02b,Nina Cole,62,928,EPO,Diabetes
+fc20f83e-f167-457a-8c26-1925ae222cd7,Bradley Gomez,48,687,POS,Asthma
+4d62f5cd-2180-4f9b-8166-2d36e2446c98,Sarah Johnson,40,322,POS,Heart Disease
+b86b9934-1112-45d8-8014-2cf108ae5a72,Stephanie Berg,48,944,POS,None
+7f839b23-efdd-4b54-be52-69841224bb4a,Philip Robinson,40,563,POS,None
+a66544ce-e29f-4cf0-a0ee-d6e4d1b3612b,Melody Rivera,51,319,EPO,None
+001bfac9-f3fc-4037-ac6f-88d28cfc0f0d,Brandi Stephens,42,874,POS,Heart Disease
+1894166f-ecd8-4d80-977f-37b41593533d,Michelle Jenkins,56,910,HMO,Heart Disease
+1ab63584-fbb8-456a-ad86-ffaad1bc3867,Logan Aguilar,40,436,PPO,None
+5b5a5723-48b3-418f-a48c-3d5bacf9cbcc,Sheri Marquez,62,953,PPO,Diabetes
+8ad3fd23-d4a4-4859-b6e3-2fe35a4a8897,Daniel Jordan,25,406,PPO,None
+b3004007-3a11-4332-ac75-3e7a25c13a78,Tina King,18,883,PPO,Heart Disease
+58ff3043-a5a3-49d0-8841-77a47bf1b7f9,David Andrade,34,1067,POS,None
+a6877071-8919-4a36-b731-bcd82de79f72,Adam Brown,68,454,PPO,Diabetes
+ca254433-0927-43b4-bc66-5386f1628ff1,Joel Wilson,32,466,POS,Diabetes
+5fbba6d2-d178-467f-ace2-26a8ab64db8e,Paula Kennedy,46,233,POS,Asthma
+c30986a3-4ff1-439e-abe4-d089a5ed463b,Erica Brady,25,1052,HMO,Hypertension
+1b132a08-e739-49fe-a80c-770b32e2b054,Megan Thomas,62,1102,PPO,Diabetes
+85258108-250c-4e96-ab87-d4fb6b3cdaf7,Amanda Lopez,60,291,EPO,None
+0df4a7d4-f827-40c1-86df-1cd11f954dac,Melissa Griffin,35,612,POS,Hypertension
+1dfa45ef-26e7-40a3-8178-b7bc3c3cfe16,Vincent Rodriguez,29,224,HMO,Hypertension
+10f8f084-a122-4dff-9f68-e064c1002cc9,John Jones,50,830,EPO,Diabetes
+3dea057a-7965-42dd-bae8-7dc4e8c65cca,Tiffany Colon,37,1127,POS,Asthma
+c839f475-a085-4f34-aedd-0543d5b165e7,Rebecca Walker,67,390,POS,Asthma
+ea3e2de0-a6b1-49ad-8491-156a60d3d74b,Angela White,38,921,POS,Diabetes
+49868071-8992-477d-a626-ad88f73f480a,Angela Miles,22,1187,EPO,Hypertension
+a34e7d83-8cea-4535-ba7f-bc2dfc8cf9a2,Michael Wright,46,1069,PPO,Hypertension
+0ffe30b8-0f1e-4ea4-be04-0f684b7ec1b4,Nicole Frey,32,853,PPO,Diabetes
+014e2fd5-a7eb-46cf-b81e-a62e06b27e03,Samuel Bailey,61,330,HMO,Diabetes
+681d0738-2961-4746-937e-50bd2ce1fa7f,Dustin Davis,61,154,PPO,Hypertension
+04994a44-04d4-4889-8a21-94c2fee579d3,Stephanie Johnson,36,702,EPO,Hypertension
+45fd2ece-52cf-4078-9348-41af0d66ecfd,Christopher Mckee,18,839,PPO,Asthma
+a4b588cc-6291-4f26-b3c8-456b1862f387,Richard Mcmillan,63,1021,EPO,Heart Disease
+28b554bc-b6d0-4c50-9e04-da5de4b838b4,Deanna Monroe,26,1150,PPO,Heart Disease
+4cbca517-c856-4531-bf66-ed78ac3d8c6e,Brandon Underwood,20,1141,POS,Diabetes
+948025d8-316e-43be-89a5-3cfb02ce2d0a,John Reed,68,1135,EPO,Heart Disease
+f3fa1bff-8b4d-4b38-8b7f-8f04f29967fc,Christopher Wong,51,386,EPO,Asthma
+25b42bf6-3ed9-4b91-8eed-7b8971726313,Robert Hester,47,347,HMO,Heart Disease
+b20f55dd-6c0a-42c7-b491-1aa996b1f97d,Madeline Adams,57,888,EPO,None
+acf4b8dc-bec9-4254-b730-981c66971d58,Chris Fritz,49,875,EPO,None
+2530a3b4-aca4-41fd-9742-562d837658d5,Adam Davis,64,775,POS,Diabetes
+b17de8cd-469a-426c-a63d-2588623de253,Joy Flores,19,476,POS,Diabetes
+be3c9a3a-e6a0-49eb-a368-0f108dca5ffc,Patrick Cline,19,802,PPO,Diabetes
+262f520d-f009-4196-a316-cd3540227e0e,Rebecca Dickerson,49,1004,HMO,Asthma
+d17df12b-b86b-4920-a714-4d969142e99c,Brandon Carter,38,1004,PPO,Hypertension
+8c2490a6-bae2-4691-b29d-eeed06365e68,Johnny Carter,35,503,POS,Heart Disease
+0b088053-fe44-4319-8670-6daf28f0c3ab,Daniel Singh,22,323,POS,Heart Disease
+82f8f076-49c3-46c4-a9b9-b55a4450f18a,Jonathan Willis,33,660,HMO,Diabetes
+96ff66b7-ecde-48ac-b455-c0c54d878ce2,Paige Hammond,59,944,HMO,Asthma
+5a55d4c7-c359-4ca0-afdd-241757ae900e,Beverly Allen,70,310,POS,Asthma
+1c139e5e-5257-405e-9875-d92b6a0cc5e5,Dr. Kyle Petersen,51,588,EPO,None
+5b0b9def-1ea6-41d4-bb7d-c3ad5c661884,Jeffrey Young,32,460,POS,Hypertension
+7ff51781-982b-45ff-aadc-8cef531c2bab,Maurice White,64,1178,EPO,Asthma
+f334b84b-6f5f-4524-82b7-d496754bab37,Mrs. Julie Santos,54,665,POS,Hypertension
+42c9cf6c-9a79-4047-b190-fcfa59e7b802,Jacob Peters,21,622,EPO,None
+c689660d-649c-48d4-8255-b2a5ce7ca348,Laura Oliver,57,1082,PPO,Heart Disease
+042ba7c5-df07-49d6-951b-5ce9d0fec0fa,Tara Jackson,58,500,POS,Hypertension
+cfb727cd-8691-4aff-829f-2fba70991afe,Jeremy Tran,19,484,EPO,Asthma
+81ffbbf7-b954-4b13-8a7e-d38ffe8fbf73,Katherine Parker,19,210,HMO,Heart Disease
+f31c3fe9-85fe-4fe5-9da7-310ffb02c972,Charles Freeman,22,371,EPO,Heart Disease
+895270f6-08f4-4076-a9c1-72eff91e4038,Ann Krueger,63,476,POS,Hypertension
+ca45771b-c659-4543-be29-dcd03833a728,Jack Bowman,58,526,POS,Hypertension
+5338faf5-81c8-4a71-a16c-b30d5136f2f8,Beth Chavez,70,945,HMO,None
+c9dd37e2-2ad1-437c-ad67-560323704f63,Christine Brown,30,740,PPO,None
+da5884e9-30a8-4292-b845-4fa06f70e986,Donna Ward,68,789,HMO,Hypertension
+8bde53e6-383a-4cdd-9926-179975bbbc77,Megan Bennett,47,990,POS,Heart Disease
+4f068314-ad61-44cb-9d18-d32c91892fd5,Tanya Day,28,844,PPO,Hypertension
+a6e79564-f55a-4857-9a9f-4887332059c3,James Clark,63,937,HMO,Heart Disease
+8d2d8cf6-46a9-416e-a506-15f6948ed7a9,Kristin Stevens,52,1022,PPO,Heart Disease
+5ab4fe42-fc4a-4cca-b006-a74b5e7eab4e,Shari Reyes,51,1058,POS,None
+d2c48b33-cdfb-4724-95d9-8ac19539c871,Barbara York,53,661,EPO,Heart Disease
+812df4ee-79c7-4d1d-bfe3-0a38e9272734,Evan Moore,24,1103,PPO,Diabetes
+dcb6f8f6-9fab-46a3-b593-3bc27610482a,Karen James,33,732,HMO,Diabetes
+53762d59-4e4a-4f35-91b9-7450185c99a1,Erica Cruz,43,185,POS,Diabetes
+5087c92f-f08d-436f-85be-85719cfae585,Amy Leon,45,355,EPO,None
+73d2ca0c-a04a-4e9a-a835-77a66211a926,Scott Kelley,48,395,HMO,Hypertension
+c910a9b6-002d-45dc-9a41-989b5ef0b0b5,Aaron Daniel,19,590,PPO,Asthma
+2dd2b5a0-053e-41bd-bb0e-90e8ef915bbb,Rebekah Middleton,19,1103,POS,Diabetes
+317728ae-da79-433b-bfb4-d393514d22c4,Heather Galvan,53,407,POS,Heart Disease
+9b37c76b-7b68-40a4-ad03-bf915ba00bea,Jennifer Barnes,22,285,HMO,Asthma
+695aa0b0-b582-4602-98fe-f8dabd1d15a3,Chad Griffin,46,168,EPO,Hypertension
+95734840-6b57-4742-94f8-25a89e53632f,Robert Jones,19,420,PPO,Asthma
+3fc329b3-eade-4c2d-b64e-0aeb59f82621,Tracy Stevens,59,604,EPO,Hypertension
+69364a8d-4480-49ce-ae74-f65e31a35095,Yvonne Vaughan,55,218,POS,Hypertension
+aeb7f77a-2b2b-4d0f-98d8-848f44f3f5c0,Jason Johnson,37,530,EPO,Heart Disease
+f91628ff-e8a7-4ef0-b0d0-4f3938f69f35,Nicholas Blevins,61,1058,POS,Diabetes
+1e4a6819-0c0f-4a32-acff-35eea2d4be87,Connie Bolton,36,481,PPO,Asthma
+64dd2ecd-e5b0-4a7d-9f78-748bdc642a6f,Nicholas Allen,39,482,POS,Heart Disease
+8edbecf4-20f1-4256-a0f6-3b44d335a005,Amber Perez,23,1069,PPO,Asthma
+b5061dac-cfd0-4722-81b3-6619862cb96a,Peter Hernandez,41,1073,POS,Heart Disease
+f4be7539-feb4-4b88-b386-4c117752dd5d,Robert Booth,60,971,PPO,Asthma
+b6de41e2-1154-4e5a-ba0a-6be1f5d57530,Cindy Roberts,35,554,POS,None
+1b62dc9a-3611-443b-804b-b1d072cc27f9,Shawn Simmons,63,707,POS,Asthma
+f1d59f40-9459-454f-aa68-4c207465fd65,Christopher Patel,20,1197,EPO,None
+8cc8eb13-46cd-4374-82f4-f86620f7ac14,Mary White,66,538,POS,Diabetes
+42130401-d788-48ec-9738-153814b3c919,Lisa Allison,32,492,HMO,Asthma
+c55d01fb-4070-448a-bb49-7e4bc3cabd2f,Joseph Johnson,44,915,POS,Diabetes
+87776292-b38f-4df2-bfe5-1a8de22b464d,Jason Anderson,25,463,EPO,Asthma
+ec14baf5-11d6-4505-99fc-8390f1ab60bf,Darren Petty,64,314,POS,Asthma
+2a4220dc-7061-4b72-a703-3e9a28303967,Elizabeth Simpson,38,285,PPO,Heart Disease
+c787ac1c-d6c7-447d-bbc8-459a6eb377fe,Debra Frost,21,1155,POS,None
+88f08f1e-aed3-449b-883c-034cac6ce449,William Caldwell,22,261,PPO,Diabetes
+23e89410-6050-4782-86fd-5714bbbc76be,Adam Mcguire,48,1043,HMO,Heart Disease
+6e697f2d-d838-4e30-8942-bed9da1723a0,Michael Clark,70,784,EPO,Asthma
+fc36c5a6-d238-4999-b429-32afa3b72694,David Lee,36,291,POS,Diabetes
+1465a8e1-176a-43a0-a29d-60ee3553f0a6,Michael Mitchell,21,1188,HMO,Diabetes
+c1817935-cfb9-43d6-aa63-cda29b67b5b9,Wendy Lynch,49,727,HMO,None
+f132dc5c-6c7a-41a5-900f-ed0f03893590,Cheyenne Cole,60,1053,HMO,Asthma
+656bcfa0-e026-4a75-9b07-cb9d4dffca55,Dana Foster,68,515,POS,Asthma
+42b1786b-7339-48a5-87d1-52ebff261f91,Karen Walker,42,891,POS,Diabetes
+2de3ff77-ca4d-488b-9a3a-41255c6e6f40,Stephen Cameron,69,505,PPO,Heart Disease
+e69111d7-28d6-416a-85e9-f80a6d98f69d,Leah Mcclure,29,1084,HMO,Heart Disease
+81c95f95-36f5-479f-ae69-e0f08ce1fccf,Linda Decker,55,1037,PPO,Asthma
+9a00c677-e61f-4ce6-a9e4-d12df1d9756c,Michael Horton,31,876,PPO,Diabetes
+c08ddeff-bc89-49b6-9ba3-eda98c9bdd59,John Cook,68,1054,HMO,Diabetes
+c0b37f7c-aeff-4975-bf98-d6ff25a1d211,Jennifer Ritter,63,547,PPO,Heart Disease
+2dae7d44-1c75-4f0f-a749-9e6d401a3e44,Lisa Mejia,25,792,POS,None
+4edcddba-46fb-43ea-9a2c-9443c6dfb951,Gerald Herrera,27,274,EPO,None

@@ -1,0 +1,11 @@
+Plan ID,Plan Name,Monthly Premium,Deductible,Coverage (%),Network Type,Chronic Condition Coverage
+7bc89c02-ebba-4905-8624-baba59dd6b07,"Plan Nolan, Martinez and Baxter",439,3028,85,EPO,True
+b817b9c5-8bea-491e-85ef-e8de33292adb,"Plan Zimmerman, Jackson and Lee",1418,1309,80,PPO,True
+69b4f8e2-fc39-48bc-a214-3ebbc61c2b19,Plan Bishop Ltd,201,4416,90,EPO,True
+aeb76866-64e8-4bf8-9706-8ea7da2b7293,Plan Bautista Ltd,1401,4814,90,POS,False
+35165070-add1-4f94-b276-9e963eb45ee8,Plan Scott-Mercer,1190,510,95,POS,True
+e4da0c04-b420-406b-b093-b0d128f2c8f6,"Plan Martin, Calderon and Turner",906,737,80,PPO,False
+42b3790b-6e1c-4277-a6f8-0417a65dd334,Plan Mcdowell Inc,1408,2151,85,PPO,True
+78c75ffe-7c09-4763-b8e8-7452b753c3fc,Plan Williams LLC,1251,2750,95,EPO,False
+4c605509-739f-4f01-adc2-7fceef8a1587,"Plan Bowers, Morgan and Davis",1150,2362,90,PPO,False
+cfa937f4-497d-4aca-840d-d3214229ca38,Plan Solis Ltd,1318,2071,85,POS,False
