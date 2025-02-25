@@ -63,6 +63,13 @@ Create a new branch feature-xyz 🌿
 Commit changes & push 🚀
 Open a pull request!
 
+
+# Folder Creation
+mkdir data/ src/
+touch src/data_preprocessing.py src/model.py src/recommendation.py src/enrollment_guide.py
+python3 -m venv health_venv
+source health_venv/bin/activate
+
 📜 License
 MIT License
 
