@@ -4,10 +4,15 @@ from src.model import recommend_plan
 from src.enrollment_guide import generate_enrollment_guide
 
 # Load data
+@st.cache_data
 def load_data():
-    members_data = pd.read_csv('data/members.csv')
-    plans_data = pd.read_csv('data/health_plans.csv')
-    return members_data, plans_data
+    try:
+        members_data = pd.read_csv('data/members.csv')
+        plans_data = pd.read_csv('data/health_plans.csv')
+        return members_data, plans_data
+    except Exception as e:
+        st.error(f"Error loading data: {e}")
+        return None, None
 
 # Streamlit UI
 def app():
@@ -23,19 +28,29 @@ def app():
     
     # Get recommendations based on user input
     members_data, plans_data = load_data()
+    if members_data is None or plans_data is None:
+        return  # Exit if there's an error in loading the data
+    
     member_profile = {"Age": age, "Condition": condition, "Network": network_type, "Budget": budget}
-    recommended_plan = recommend_plan(member_profile, plans_data)
     
-    st.subheader("Recommended Plan")
-    st.write(f"**Plan Name:** {recommended_plan['Plan Name']}")
-    st.write(f"**Monthly Premium:** ${recommended_plan['Monthly Premium']}")
-    st.write(f"**Deductible:** ${recommended_plan['Deductible']}")
-    st.write(f"**Coverage:** {recommended_plan['Coverage (%)']}%")
-    
-    # Generate Enrollment Guide
-    guide = generate_enrollment_guide(recommended_plan)
-    st.subheader("Enrollment Guide")
-    st.write(guide)
+    # Button to trigger plan recommendation and guide generation
+    if st.button("Generate Plan Recommendation"):
+        # Fetching recommended plan based on member's profile
+        recommended_plan = recommend_plan(member_profile, plans_data)
+        
+        if recommended_plan is not None:
+            st.subheader("Recommended Plan")
+            st.write(f"**Plan Name:** {recommended_plan['Plan Name']}")
+            st.write(f"**Monthly Premium:** ${recommended_plan['Monthly Premium']}")
+            st.write(f"**Deductible:** ${recommended_plan['Deductible']}")
+            st.write(f"**Coverage:** {recommended_plan['Coverage (%)']}%")
+            
+            # Generate and display enrollment guide
+            guide = generate_enrollment_guide(recommended_plan)
+            st.subheader("Enrollment Guide")
+            st.write(guide)
+        else:
+            st.error("Unable to fetch plan recommendations. Please check your input data.")
 
 if __name__ == "__main__":
     app()
